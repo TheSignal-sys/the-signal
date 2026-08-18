@@ -1,0 +1,74 @@
+STORY
+Category: CREDIT
+Headline: Global borrowing costs surge to pre-crisis highs
+What happened:
+Global borrowing costs climbed to fresh highs as bond yields surged, driven by higher oil prices, persistent inflation and AI-related investment shifts, raising financing costs for governments and corporates worldwide.
+Why it matters:
+Higher global borrowing costs tighten financial conditions, compress equity multiples, raise refinancing burdens and increase sovereign fiscal deficits, forcing central banks to reconcile inflation control with growth risks.
+Second-order effects:
+- Corporate profit margins pressured via higher interest expense
+- Emerging-market outflows heighten sovereign funding stress
+- Equity valuation multiples likely to compress further
+Markets to watch:
+US 10-year yield, UK 10-year gilt, ICE BofA US High Yield Spread, Brent oil
+END STORY
+
+STORY
+Category: MACRO
+Headline: BoE and FCA outline vision for tokenisation in wholesale markets
+What happened:
+Bank of England and the FCA published a shared vision to accelerate tokenisation of UK wholesale markets, promoting digital issuance, settlement pilots and regulatory frameworks to modernise post-trade infrastructure.
+Why it matters:
+Tokenisation could shorten settlement cycles, lower issuance costs, expand investor access and reshape liquidity provision, altering demand for custody, trading platforms and post-trade service providers.
+Second-order effects:
+- Growth opportunity for digital custody and infrastructure providers
+- Pressure on legacy clearinghouses and CSDs
+- Regulatory arbitrage risk across jurisdictions increases
+Markets to watch:
+UK 10-year gilt, LSEG shares, Coinbase (COIN), GBP/USD
+END STORY
+
+STORY
+Category: FX
+Headline: Dollar slips as markets trim Fed rate-hike expectations
+What happened:
+The US dollar eased against the euro as markets reduced odds of further Fed rate hikes, reacting to softer data and shifting inflation and growth expectations.
+Why it matters:
+A weaker dollar alters capital flows, eases dollar funding strains, lifts commodity prices and boosts emerging-market currencies and equities sensitive to USD movements, and corporate FX exposures.
+Second-order effects:
+- Commodity exporters gain pricing power
+- EM local-currency bond inflows increase
+- Hedging costs for multinationals may decline
+Markets to watch:
+EUR/USD, DXY index, US 2-year yield, EMBI Global
+END STORY
+
+STORY
+Category: MACRO
+Headline: UK job vacancies hit five-year low as small firms halt hiring
+What happened:
+UK job vacancies fell to a five-year low as smaller firms scaled back recruitment, signaling softer labour demand amid higher borrowing costs and uncertain business outlook.
+Why it matters:
+Cooling vacancies suggest easing wage growth and services inflation, reducing pressure on the Bank of England to hike rates and influencing consumer spending and housing demand.
+Second-order effects:
+- May slow wage-driven consumption growth
+- Supports lower short-term gilt yields
+- Eases urgency for further BoE tightening
+Markets to watch:
+UK CPI services, UK unemployment rate, UK 2-year gilt, GBP/USD
+END STORY
+
+STORY
+Category: EQUITIES
+Headline: Revolut targets Australia's cut‑throat mortgage market expansion
+What happened:
+Revolut announced plans to expand into Australia’s mortgage market, leveraging digital distribution and competitive pricing to capture retail mortgage share from incumbent banks and scale quickly.
+Why it matters:
+Entry intensifies competition in mortgages, pressuring margins for Australian lenders, influencing mortgage pricing, securitisation volumes and deposit strategies and could accelerate fintech-led disruption in household lending.
+Second-order effects:
+- Spurs rate cuts from incumbent lenders
+- Boosts mortgage-backed securities issuance
+- Draws tighter APRA regulatory focus
+Markets to watch:
+Commonwealth Bank (CBA.AX), Westpac (WBC.AX), Australia 10-year yield, AUD/USD
+END STORY
