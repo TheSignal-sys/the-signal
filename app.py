@@ -11,51 +11,12 @@ st.set_page_config(
 )
 
 
+# ==================================================
+# DESIGN
+# ==================================================
+
 st.markdown("""
 <style>
-
-/* ==================================================
-   REMOVE STREAMLIT CHROME
-   ================================================== */
-
-#MainMenu {
-    display: none;
-}
-
-footer {
-    display: none;
-}
-
-header {
-    visibility: hidden;
-    height: 0;
-}
-
-[data-testid="stToolbar"] {
-    display: none;
-}
-
-[data-testid="stDecoration"] {
-    display: none;
-}
-
-[data-testid="stStatusWidget"] {
-    display: none;
-}
-
-[data-testid="stHeader"] {
-    background: transparent;
-    height: 0;
-}
-
-[data-testid="stSidebarHeader"] {
-    display: none;
-}
-
-
-/* ==================================================
-   MAIN DESIGN
-   ================================================== */
 
 .stApp {
     background: #f4f0df;
@@ -490,6 +451,7 @@ if page == "THE DAILY SIGNAL":
                 parsed_stories[index]
             )
 
+    # Fallback if ranking is missing
     if not visible_stories:
 
         visible_stories = parsed_stories[:5]
