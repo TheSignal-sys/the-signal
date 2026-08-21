@@ -1,138 +1,236 @@
+import re
 import streamlit as st
 from datetime import date
+
 
 st.set_page_config(
     page_title="The Signal",
     page_icon="◈",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="collapsed"
 )
+
+
+# ==================================================
+# DESIGN
+# ==================================================
 
 st.markdown("""
 <style>
+
 .stApp {
-    background: #0b0f14;
-    color: #e8edf2;
+    background: #f4f0df;
+    color: #10233f;
 }
 
 .block-container {
-    max-width: 950px;
-    padding: 55px 45px 80px;
+    max-width: 980px;
+    padding: 42px 52px 80px;
+}
+
+[data-testid="stSidebar"] {
+    background: #f4f0df;
+    border-right: 1px solid #d8d2bd;
+}
+
+[data-testid="stSidebar"] * {
+    color: #10233f;
+}
+
+[data-testid="stSidebar"] .stRadio label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
 }
 
 .kicker {
-    color: #7f8b98;
-    font-size: 10px;
+    color: #667083;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
     font-weight: 700;
     letter-spacing: 3px;
 }
 
 .title {
-    color: #f4f6f8;
+    color: #10233f;
     font-family: Georgia, serif;
-    font-size: 60px;
+    font-size: 64px;
     font-weight: 700;
     line-height: 1;
-    margin-top: 8px;
-}
-
-.subtitle {
-    color: #8f9aa6;
-    font-size: 15px;
     margin-top: 10px;
 }
 
+.subtitle {
+    color: #667083;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-top: 12px;
+}
+
 .rule {
-    border-top: 1px solid #252c34;
-    margin: 25px 0 17px;
+    border-top: 1px solid #cfc8b1;
+    margin: 28px 0 18px;
 }
 
 .date {
-    color: #687582;
-    font-size: 10px;
+    color: #667083;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
     font-weight: 700;
     letter-spacing: 2px;
 }
 
 .section {
-    color: #7f8b98;
-    font-size: 10px;
+    color: #667083;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
     font-weight: 700;
     letter-spacing: 3px;
-    margin: 48px 0 18px;
+    margin: 50px 0 20px;
 }
 
 .story {
-    border-top: 1px solid #252c34;
-    padding: 28px 0 35px;
+    border-top: 1px solid #cfc8b1;
+    padding: 30px 0 42px;
 }
 
 .meta {
-    color: #687582;
-    font-size: 10px;
+    color: #7b8492;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
     font-weight: 700;
     letter-spacing: 2px;
 }
 
 .category {
-    color: #9aa6b2;
-    margin-left: 12px;
+    color: #10233f;
+    margin-left: 14px;
 }
 
 .headline {
-    color: #f4f6f8;
+    color: #10233f;
     font-family: Georgia, serif;
-    font-size: 28px;
+    font-size: 32px;
     font-weight: 700;
-    line-height: 1.25;
-    margin: 9px 0 24px;
+    line-height: 1.22;
+    margin: 10px 0 27px;
 }
 
 .label {
-    color: #7f8b98;
-    font-size: 9px;
+    color: #667083;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
     font-weight: 700;
     letter-spacing: 2px;
-    margin: 18px 0 7px;
+    margin: 22px 0 8px;
 }
 
 .body {
-    color: #c4cbd2;
-    font-size: 14px;
-    line-height: 1.65;
+    color: #26364d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
 }
 
 .effect {
-    color: #c4cbd2;
-    font-size: 13px;
-    line-height: 1.55;
-    margin: 5px 0;
+    color: #26364d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 7px 0;
 }
 
 .market {
     display: inline-block;
-    background: #151b22;
-    border: 1px solid #252c34;
+    background: #ebe5d2;
+    border: 1px solid #d2cbb6;
     border-radius: 3px;
-    color: #dce2e7;
-    padding: 6px 9px;
-    margin: 2px 5px 2px 0;
-    font-size: 10px;
-    font-weight: 600;
+    color: #10233f;
+    padding: 7px 10px;
+    margin: 3px 6px 3px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
 }
 
 .footer {
-    border-top: 1px solid #252c34;
-    margin-top: 50px;
-    padding-top: 18px;
-    color: #687582;
-    font-size: 9px;
+    border-top: 1px solid #cfc8b1;
+    margin-top: 55px;
+    padding-top: 20px;
+    color: #7b8492;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
     letter-spacing: 1px;
 }
+
+@media (max-width: 700px) {
+
+    .block-container {
+        padding: 30px 22px 60px;
+    }
+
+    .title {
+        font-size: 48px;
+    }
+
+    .subtitle {
+        font-size: 16px;
+    }
+
+    .headline {
+        font-size: 27px;
+    }
+
+    .body {
+        font-size: 16px;
+        line-height: 1.65;
+    }
+
+    .effect {
+        font-size: 15px;
+    }
+
+}
+
 </style>
 """, unsafe_allow_html=True)
 
 
+# ==================================================
+# MENU
+# ==================================================
+
+with st.sidebar:
+
+    st.markdown(
+        '<div class="kicker">THE SIGNAL</div>',
+        unsafe_allow_html=True
+    )
+
+    st.markdown(
+        '<div style="height:18px"></div>',
+        unsafe_allow_html=True
+    )
+
+    page = st.radio(
+        "Navigation",
+        [
+            "THE DAILY SIGNAL",
+            "EQUITIES",
+            "FX",
+            "FIXED INCOME",
+            "COMMODITIES",
+            "MACRO",
+            "CREDIT"
+        ],
+        label_visibility="collapsed"
+    )
+
+
+# ==================================================
 # HEADER
+# ==================================================
 
 st.markdown(
     '<div class="kicker">GLOBAL MARKETS · MACRO · INVESTING</div>',
@@ -155,38 +253,87 @@ st.markdown(
 )
 
 st.markdown(
-    f'<div class="date">{date.today().strftime("%A · %d %B %Y").upper()}</div>',
+    f'<div class="date">'
+    f'{date.today().strftime("%A · %d %B %Y").upper()}'
+    f'</div>',
     unsafe_allow_html=True
 )
 
 
-# AUTOMATICALLY GENERATE THE SIGNAL
+# ==================================================
+# READ SIGNAL
+# ==================================================
 
-with open("signal.txt", "r", encoding="utf-8") as f:
-    result = f.read()
+try:
+
+    with open("signal.txt", "r", encoding="utf-8") as f:
+        result = f.read()
+
+except FileNotFoundError:
+
+    st.error("signal.txt could not be found.")
+    st.stop()
 
 
-# SIGNAL
+# ==================================================
+# EXTRACT DAILY SIGNAL RANKING
+# ==================================================
 
-st.markdown(
-    '<div class="section">TODAY\'S SIGNAL</div>',
-    unsafe_allow_html=True
+daily_signal_numbers = []
+
+ranking_match = re.search(
+    r"DAILY SIGNAL\s*(.*?)\s*END DAILY SIGNAL",
+    result,
+    re.DOTALL
 )
 
-stories = result.split("STORY")
+if ranking_match:
 
-story_number = 0
+    ranking_block = ranking_match.group(1)
 
-for raw_story in stories:
+    for line in ranking_block.splitlines():
+
+        match = re.search(
+            r"^\s*(\d+)\s*:\s*(\d+)",
+            line
+        )
+
+        if match:
+            daily_signal_numbers.append(
+                int(match.group(2))
+            )
+
+
+# ==================================================
+# REMOVE RANKING FROM STORIES
+# ==================================================
+
+stories_text = result
+
+if ranking_match:
+
+    stories_text = (
+        result[:ranking_match.start()]
+        + result[ranking_match.end():]
+    )
+
+
+# ==================================================
+# PARSE STORIES
+# ==================================================
+
+raw_stories = stories_text.split("STORY")
+
+parsed_stories = []
+
+for raw_story in raw_stories:
 
     story = raw_story.strip()
 
     if not story:
         continue
 
-    story = story.split("END STORY")[0]
-
-    story_number += 1
+    story = story.split("END STORY")[0].strip()
 
     category = ""
     headline = ""
@@ -205,27 +352,39 @@ for raw_story in stories:
             continue
 
         if line.startswith("Category:"):
-            category = line.replace("Category:", "", 1).strip()
+
+            category = line.replace(
+                "Category:", "", 1
+            ).strip().upper()
 
         elif line.startswith("Headline:"):
-            headline = line.replace("Headline:", "", 1).strip()
+
+            headline = line.replace(
+                "Headline:", "", 1
+            ).strip()
 
         elif line.startswith("What happened:"):
+
             current_section = "happened"
+
             happened = line.replace(
                 "What happened:", "", 1
             ).strip()
 
         elif line.startswith("Why it matters:"):
+
             current_section = "matters"
+
             matters = line.replace(
                 "Why it matters:", "", 1
             ).strip()
 
         elif line.startswith("Second-order effects:"):
+
             current_section = "effects"
 
         elif line.startswith("Markets to watch:"):
+
             current_section = "markets"
 
             text = line.replace(
@@ -239,14 +398,17 @@ for raw_story in stories:
             )
 
         elif current_section == "happened":
+
             happened += " " + line
 
         elif current_section == "matters":
+
             matters += " " + line
 
         elif current_section == "effects":
 
             if line.startswith("-"):
+
                 effects.append(
                     line[1:].strip()
                 )
@@ -259,8 +421,68 @@ for raw_story in stories:
                 if item.strip()
             )
 
+    if headline:
 
-    # STORY
+        parsed_stories.append({
+            "category": category,
+            "headline": headline,
+            "happened": happened,
+            "matters": matters,
+            "effects": effects,
+            "markets": markets
+        })
+
+
+# ==================================================
+# SELECT STORIES
+# ==================================================
+
+if page == "THE DAILY SIGNAL":
+
+    visible_stories = []
+
+    for number in daily_signal_numbers:
+
+        index = number - 1
+
+        if 0 <= index < len(parsed_stories):
+
+            visible_stories.append(
+                parsed_stories[index]
+            )
+
+    # Fallback if ranking is missing
+    if not visible_stories:
+
+        visible_stories = parsed_stories[:5]
+
+else:
+
+    visible_stories = [
+        story
+        for story in parsed_stories
+        if story["category"] == page
+    ]
+
+
+# ==================================================
+# SECTION TITLE
+# ==================================================
+
+st.markdown(
+    f'<div class="section">{page}</div>',
+    unsafe_allow_html=True
+)
+
+
+# ==================================================
+# DISPLAY STORIES
+# ==================================================
+
+for story_number, story in enumerate(
+    visible_stories,
+    start=1
+):
 
     st.markdown(
         '<div class="story">',
@@ -268,13 +490,19 @@ for raw_story in stories:
     )
 
     st.markdown(
-        f'<span class="meta">{story_number:02d}</span>'
-        f'<span class="meta category">{category}</span>',
+        f'<span class="meta">'
+        f'{story_number:02d}'
+        f'</span>'
+        f'<span class="meta category">'
+        f'{story["category"]}'
+        f'</span>',
         unsafe_allow_html=True
     )
 
     st.markdown(
-        f'<div class="headline">{headline}</div>',
+        f'<div class="headline">'
+        f'{story["headline"]}'
+        f'</div>',
         unsafe_allow_html=True
     )
 
@@ -284,7 +512,9 @@ for raw_story in stories:
     )
 
     st.markdown(
-        f'<div class="body">{happened}</div>',
+        f'<div class="body">'
+        f'{story["happened"]}'
+        f'</div>',
         unsafe_allow_html=True
     )
 
@@ -294,37 +524,47 @@ for raw_story in stories:
     )
 
     st.markdown(
-        f'<div class="body">{matters}</div>',
+        f'<div class="body">'
+        f'{story["matters"]}'
+        f'</div>',
         unsafe_allow_html=True
     )
 
-    if effects:
+    if story["effects"]:
 
         st.markdown(
-            '<div class="label">SECOND-ORDER EFFECTS</div>',
+            '<div class="label">'
+            'SECOND-ORDER EFFECTS'
+            '</div>',
             unsafe_allow_html=True
         )
 
-        for effect in effects:
+        for effect in story["effects"]:
 
             st.markdown(
-                f'<div class="effect">→ {effect}</div>',
+                f'<div class="effect">'
+                f'→ {effect}'
+                f'</div>',
                 unsafe_allow_html=True
             )
 
-    if markets:
+    if story["markets"]:
 
         st.markdown(
-            '<div class="label">MARKETS TO WATCH</div>',
+            '<div class="label">'
+            'MARKETS TO WATCH'
+            '</div>',
             unsafe_allow_html=True
         )
 
         market_html = ""
 
-        for market in markets:
+        for market in story["markets"]:
 
             market_html += (
-                f'<span class="market">{market}</span>'
+                f'<span class="market">'
+                f'{market}'
+                f'</span>'
             )
 
         st.markdown(
@@ -338,7 +578,23 @@ for raw_story in stories:
     )
 
 
+# ==================================================
+# EMPTY STATE
+# ==================================================
+
+if not visible_stories:
+
+    st.markdown(
+        '<div class="body">'
+        'No stories available for this section yet.'
+        '</div>',
+        unsafe_allow_html=True
+    )
+
+
+# ==================================================
 # FOOTER
+# ==================================================
 
 st.markdown(
     '<div class="footer">'
