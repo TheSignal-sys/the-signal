@@ -1,74 +1,74 @@
 STORY
-Category: CREDIT
-Headline: Global borrowing costs surge to pre-crisis highs
+Category: COMMODITIES
+Headline: Panama Canal to cut ship transits amid El Niño
 What happened:
-Global borrowing costs climbed to fresh highs as bond yields surged, driven by higher oil prices, persistent inflation and AI-related investment shifts, raising financing costs for governments and corporates worldwide.
+Panama Canal authority announced cuts to the number of daily ship transits because El Niño has lowered water levels, forcing tighter scheduling and backlog management for bulk and container traffic.
 Why it matters:
-Higher global borrowing costs tighten financial conditions, compress equity multiples, raise refinancing burdens and increase sovereign fiscal deficits, forcing central banks to reconcile inflation control with growth risks.
+Reduced transits will tighten global shipping capacity, lift freight rates, and disrupt timing for grain, coal and crude cargoes, potentially feeding through to higher commodity prices and inventory strains.
 Second-order effects:
-- Corporate profit margins pressured via higher interest expense
-- Emerging-market outflows heighten sovereign funding stress
-- Equity valuation multiples likely to compress further
+- Shift of cargoes to longer, costlier routes (Cape of Good Hope).
+- Higher freight rates amplify inflation in commodity-importing countries.
+- Inventory drawdowns increase price volatility for key crops.
 Markets to watch:
-US 10-year yield, UK 10-year gilt, ICE BofA US High Yield Spread, Brent oil
-END STORY
-
-STORY
-Category: MACRO
-Headline: BoE and FCA outline vision for tokenisation in wholesale markets
-What happened:
-Bank of England and the FCA published a shared vision to accelerate tokenisation of UK wholesale markets, promoting digital issuance, settlement pilots and regulatory frameworks to modernise post-trade infrastructure.
-Why it matters:
-Tokenisation could shorten settlement cycles, lower issuance costs, expand investor access and reshape liquidity provision, altering demand for custody, trading platforms and post-trade service providers.
-Second-order effects:
-- Growth opportunity for digital custody and infrastructure providers
-- Pressure on legacy clearinghouses and CSDs
-- Regulatory arbitrage risk across jurisdictions increases
-Markets to watch:
-UK 10-year gilt, LSEG shares, Coinbase (COIN), GBP/USD
+Baltic Dry Index, Panamax charter rates, Brent crude, Chicago soybean futures
 END STORY
 
 STORY
 Category: FX
-Headline: Dollar slips as markets trim Fed rate-hike expectations
+Headline: Dollar wobbles after Treasury bond buybacks raise concerns
 What happened:
-The US dollar eased against the euro as markets reduced odds of further Fed rate hikes, reacting to softer data and shifting inflation and growth expectations.
+Dollar volatility rose after reports the US Treasury is using occasional bond buybacks to manage supply, complicating price discovery and altering expectations about future issuance and market liquidity.
 Why it matters:
-A weaker dollar alters capital flows, eases dollar funding strains, lifts commodity prices and boosts emerging-market currencies and equities sensitive to USD movements, and corporate FX exposures.
+Buybacks change net supply dynamics, can distort yield curves and reduce market liquidity, undermining Treasuries' safe-haven role and affecting global funding and currency markets and investor behaviour.
 Second-order effects:
-- Commodity exporters gain pricing power
-- EM local-currency bond inflows increase
-- Hedging costs for multinationals may decline
+- Higher term premiums on long-duration debt.
+- Offshore dollar funding strains and tighter FX basis.
+- Greater scrutiny of US debt management and Fed communication.
 Markets to watch:
-EUR/USD, DXY index, US 2-year yield, EMBI Global
+US 10-year yield, DXY dollar index, Treasury repo rates, US 2-year yield
 END STORY
 
 STORY
-Category: MACRO
-Headline: UK job vacancies hit five-year low as small firms halt hiring
+Category: CREDIT
+Headline: Record German debt sales deepen strains in eurozone bond market
 What happened:
-UK job vacancies fell to a five-year low as smaller firms scaled back recruitment, signaling softer labour demand amid higher borrowing costs and uncertain business outlook.
+Germany sold record volumes of debt, overwhelming demand and pushing Bund yields higher, intensifying stress across Europe’s bond markets and compressing liquidity for benchmark eurozone securities.
 Why it matters:
-Cooling vacancies suggest easing wage growth and services inflation, reducing pressure on the Bank of England to hike rates and influencing consumer spending and housing demand.
+Bund yields set the floor for euro-area borrowing costs; rising German yields lift funding costs for banks, corporates and peripheral governments, complicating ECB policy calibration.
 Second-order effects:
-- May slow wage-driven consumption growth
-- Supports lower short-term gilt yields
-- Eases urgency for further BoE tightening
+- Bank mark-to-market losses increase capital strain.
+- Peripheral spreads likely widen versus Bunds.
+- Pressure on ECB to consider targeted market interventions.
 Markets to watch:
-UK CPI services, UK unemployment rate, UK 2-year gilt, GBP/USD
+German 10-year Bund yield, 2s10s Bund curve, Italian BTP-Bund spread, EURO STOXX 50
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: Revolut targets Australia's cut‑throat mortgage market expansion
+Headline: Money-market funds providing stock-market rocket fuel
 What happened:
-Revolut announced plans to expand into Australia’s mortgage market, leveraging digital distribution and competitive pricing to capture retail mortgage share from incumbent banks and scale quickly.
+Research shows money-market funds and cash-sweep mechanisms are channeling large, fast-moving liquidity into equities, amplifying rallies as short-term rates fall and investor risk appetite increases.
 Why it matters:
-Entry intensifies competition in mortgages, pressuring margins for Australian lenders, influencing mortgage pricing, securitisation volumes and deposit strategies and could accelerate fintech-led disruption in household lending.
+These unstable liquidity flows can inflate valuations, raise systemic fragility, and spark rapid reversals if yields rise or redemptions trigger cash withdrawals from money-market funds and prime conduits.
 Second-order effects:
-- Spurs rate cuts from incumbent lenders
-- Boosts mortgage-backed securities issuance
-- Draws tighter APRA regulatory focus
+- Equity drawdowns amplified on sudden fund redemptions.
+- Margin calls could cascade through leveraged positions.
+- Short-term price discovery distorted in volatile markets.
 Markets to watch:
-Commonwealth Bank (CBA.AX), Westpac (WBC.AX), Australia 10-year yield, AUD/USD
+S&P 500, NYSE margin debt, 3-month Treasury bill yield, VIX
+END STORY
+
+STORY
+Category: EM
+Headline: S&P upgrades Poland to developed-market status; flows expected
+What happened:
+S&P Dow Jones Indices upgraded Poland to developed-market status, prompting reclassification that will shift assets between emerging and developed indices and trigger large passive rebalancing flows.
+Why it matters:
+Index reclassification forces predictable buying and selling, likely boosting Polish equities and bonds initially but draining liquidity from broader EM indices and increasing PLN volatility.
+Second-order effects:
+- Temporary price spikes followed by potential mean reversion.
+- Increased foreign ownership pressures corporate governance.
+- Cost of capital dynamics shift for Polish issuers.
+Markets to watch:
+MSCI Poland index, Polish 10-year bond yield, PLN/USD exchange rate, MSCI Emerging Markets index
 END STORY
