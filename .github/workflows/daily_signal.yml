@@ -1,0 +1,40 @@
+name: Daily Signal
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install openai feedparser
+
+      - name: Generate today's Signal
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python generate_signal.py
+
+      - name: Save today's Signal
+        run: |
+          git config user.name "The Signal"
+          git config user.email "actions@github.com"
+          git add signal.txt
+          git diff --cached --quiet || git commit -m "Update daily Signal"
+          git push
