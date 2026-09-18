@@ -1,457 +1,607 @@
 DAILY SIGNAL
-1: 11
-2: 14
-3: 7
-4: 12
-5: 13
+1: 21
+2: 6
+3: 11
+4: 16
+5: 24
 END DAILY SIGNAL
 
 STORY
 Category: EQUITIES
-Headline: Turkish stocks slide amid $1bn investor outflows
+Headline: Turkish stock-market scandal sparks emergency measures
+
 What happened:
-Turkish equities fell sharply after investors withdrew about $1bn, prompting a near “fund run” and heavy selling across banks and domestic-linked names, sparking market-wide liquidity concern in Istanbul.
+Turkish authorities moved to stem fallout after a stock-market scandal prompted investor withdrawals of about $1bn and sharp declines in local equities, according to FT reports.
+
 Why it matters:
-Large outflows amplify sell pressure, widen local funding costs and could force forced selling by leveraged investors, adding volatility and contagion risk to emerging-market equity baskets.
+Rapid outflows and regulatory intervention increase volatility, threaten liquidity and raise risk premia for Turkish-listed firms and regional investors exposed to emerging market equities already.
+
 Second-order effects:
-- Higher Turkish bank funding costs and credit losses.
-- Reduced foreign participation in emerging-market ETFs.
-- Increased risk premia on EM sovereign-equity linked stocks.
+- Contagion to regional EM stock indices.
+- Widening credit spreads for Turkish corporates.
+- Higher risk premiums deter foreign purchases.
+
 Markets to watch:
-Borsa Istanbul 100, USD/TRY, Turkish 2y government bond yield, iShares MSCI Turkey ETF (TUR)
+BIST 100, USD/TRY, Turkey 10-year yield, iShares MSCI Turkey ETF
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: Dangote IPO highlights Nigerian capital-markets expansion
+Headline: BNCCORP shareholders approve merger with OppFi
+
 What happened:
-Reports highlight the Dangote IPO as transformative for Nigeria’s markets, signalling deeper domestic listings and potential capital inflows while showcasing growing investor appetite for large African corporates.
+BNCCORP stockholders approved a merger with fintech OppFi, per FT company announcement, clearing a key regulatory step and moving the combined firm toward integration next.
+
 Why it matters:
-A successful mega-IPO would broaden Nigeria’s equity market, attract foreign portfolio allocations and benchmark local valuations, altering regional capital-allocation patterns for frontier market investors.
+The merger builds a scaled consumer-lending group, increasing cross-selling opportunities and prompting investor focus on loan-asset quality and combined credit metrics, profitability outlook and regulatory capital assumptions.
+
 Second-order effects:
-- Boost to NGX liquidity and market-cap metrics.
-- Increased foreign index inclusion probability for Nigeria.
-- More corporate listings and secondary offerings likely.
+- Pressure on smaller fintech lenders.
+- Potential consolidation in consumer lending.
+- Repricing of credit-linked securities.
+
 Markets to watch:
-NGX All-Share Index, Dangote Cement shares, Nigerian naira (NGN), MSCI Frontier Markets Index
+BNCCORP stock, OppFi stock, US consumer lending ETFs, US bank loan CLO spreads
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: SocGen hires strengthen global markets capabilities
+Headline: Goldman Sachs expands AI finance and private markets presence
+
 What happened:
-Societe Generale expanded its Global Markets team with a senior hire, signalling renewed investment in trading and flow businesses amid volatile bond and equity markets.
+Goldman Sachs is intensifying AI investments and expanding private markets activity, positioning itself as a larger participant in technology-driven finance according to market reports.
+
 Why it matters:
-Recruitment suggests banks are betting on higher trading volumes and client demand, potentially improving liquidity provision and underwriting capacity across European equities and derivatives markets.
+Greater AI deployment could boost efficiency, diversify revenue toward higher-margin private markets, and change trading, risk models and client offerings, challenging competitors and altering fee structures.
+
 Second-order effects:
-- Tighter bid-ask spreads in some flow products.
-- Increased competition among European investment banks.
-- Potential expansion of prime brokerage and flow services.
+- Pressure on rival banks’ tech investments.
+- Higher fee competition in private markets.
+- Shift in internal risk modelling approaches.
+
 Markets to watch:
-Societe Generale (GLE FP), STOXX Europe 600 Banks, European equity implied volatility (V2X)
+Goldman Sachs (GS), Microsoft, Nvidia, GS asset-management fund flows
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: UK water firm complaints surge, regulator scrutiny rises
+Headline: Analysts debate whether Lloyds share price can keep climbing
+
 What happened:
-Complaints against UK water companies have spiked, triggering intensified regulatory scrutiny and potential enforcement action as consumer and political pressure mounts on the sector.
+Morningstar asks whether Lloyds share price can continue rising amid UK rate and macro shifts, reviewing valuation, loan growth and capital return assumptions for the UK bank.
+
 Why it matters:
-Heightened regulatory risk could pressure cash flow forecasts, elevate capex or penalty expectations, and compress valuations of listed UK utilities reliant on predictable regulated returns.
+Lloyds is a bellwether for UK banking; investor views on rates, mortgage defaults and dividends affect domestic equity indices and financial sector allocations and flows.
+
 Second-order effects:
-- Rising risk premia on utilities equities.
-- Higher financing costs for regulated network projects.
-- Potential for dividend policy revisions among utilities.
+- Reallocation within UK financials.
+- Dividend expectations influence pension funds.
+- Impact on bank funding spreads.
+
 Markets to watch:
-Severn Trent (SVT LN), United Utilities (UU LN), FTSE 350 Utilities, UK 10y gilt
+Lloyds share price (LLOY), FTSE 350 Banks Index, UK 10-year gilt yield, FTSE 100
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: UK government to nationalise troubled steel firm
+Headline: Global stocks rebound after Fed rate move retracement
+
 What happened:
-The UK government moved to nationalise a struggling domestic steel company to secure operations and jobs, marking a rare direct intervention in the manufacturing sector.
+Markets retraced initial sell-off after a Fed rate hike, with major indices recovering as investors reassessed tightening prospects and growth risks, according to market commentary.
+
 Why it matters:
-State takeover shifts investment risk from private owners to taxpayers, raises political interference concerns, and could reshape investor perceptions of UK industrial equities and state support likelihood.
+Equity risk appetite swings quickly after policy shocks; rebounds can sustain rotation into cyclicals, reduce safe-haven demand and influence positioning ahead of earnings season decisions.
+
 Second-order effects:
-- Supply chain beneficiaries face demand uncertainty.
-- Potential repricing of UK industrials and steelmakers.
-- Increased scrutiny for firms with strategic employment footprints.
+- Volatility dampens short-term equity hedging.
+- Flow back into cyclical sectors.
+- Weaker demand for bond proxies.
+
 Markets to watch:
-Tata Steel (TATE LN), FTSE 350 Industrials, Iron ore futures, UK industrial suppliers
+S&P 500, MSCI World, Nasdaq 100, VIX
+
 END STORY
 
 STORY
 Category: FX
-Headline: Fed hike drives broad US dollar appreciation
+Headline: Japan hikes rates to 31-year high, yen reaction expected
+
 What happened:
-The US Federal Reserve raised interest rates for the first time since 2023, prompting immediate US-dollar strength as markets repriced policy and global bond yields rose.
+Japan's central bank raised interest rates to a new 31-year high to curb rising prices, marking a significant policy shift from decades of ultra-low rates.
+
 Why it matters:
-A stronger dollar raises EM funding pressures, squeezes commodity prices denominated in USD, and forces currency-hedging adjustments for international equity and bond investors.
+Higher Japanese yields can narrow carry trades, support the yen, alter global capital flows and pressure yields elsewhere, shifting policy expectations and prompting portfolio rebalancing across fixed-income markets.
+
 Second-order effects:
-- Wider EM sovereign spreads and currency stress.
-- Commodity exporters face weaker local-currency revenues.
-- Increased hedging demand for global equities.
+- Reduced yen funding in FX carry trades.
+- Capital inflows into JGBs may rise.
+- Pressure on global bond yields upward.
+
 Markets to watch:
-DXY (US Dollar Index), USD/JPY, EUR/USD, US 2y Treasury yield
+USD/JPY, Japan 10-year yield, Nikkei 225, BoJ policy announcements
+
 END STORY
 
 STORY
 Category: FX
-Headline: BoE’s tough choices tighten sterling dynamics
+Headline: Fed hikes rates for first time in three years
+
 What happened:
-Bank of England faces difficult trade-offs on policy as UK inflation ticked higher due to petrol and diesel, complicating the outlook for the pound and UK rates.
+The US central bank raised interest rates for the first time in three years, signaling tighter US monetary policy and higher short-term dollar funding costs.
+
 Why it matters:
-Uncertain BoE path increases sterling volatility, affects gilt yields and derivatives pricing, and forces investors to monitor incoming inflation versus growth data for policy signals.
+Higher Fed rates typically strengthen the dollar, shift global funding conditions, compress emerging-market spreads and raise discount rates used in equity valuations and borrowing costs globally.
+
 Second-order effects:
-- Increased GBP/USD volatility around data releases.
-- Rethink of duration exposure in sterling portfolios.
-- Shift in gilt curve steepening expectations.
+- Tighter dollar liquidity for EM borrowers.
+- US assets attract yield-seeking flows.
+- Hedging costs for corporates rise.
+
 Markets to watch:
-GBP/USD, UK 10y gilt yield, SONIA futures, FTSE 100
+DXY, US 2-year yield, USD/BRL, USD/TRY
+
 END STORY
 
 STORY
 Category: FX
-Headline: Turkey outflows push lira under renewed pressure
+Headline: UK seeks EU access to industry support scheme
+
 What happened:
-Investor withdrawals from Turkish assets and equity slides have intensified pressure on the lira, prompting market concerns over reserve adequacy and near-term currency stability.
+UK finance minister Healey will request EU finance ministers permit the UK to join an industry support scheme, seeking closer post-Brexit regulatory and industrial cooperation.
+
 Why it matters:
-A weaker lira raises imported inflation risks, forces central-bank intervention or rate adjustments, and increases expected returns demanded by foreign holders of Turkish assets.
+Access could ease trade frictions for UK firms, influence sector-level competitiveness and alter cross-border investment expectations and encourage policy alignment.
+
 Second-order effects:
-- Higher yields on Turkish sovereign debt.
-- Capital controls or FX intervention probability rises.
-- Reduced foreign appetite for Turkish corporate bonds.
+- Improved export prospects for UK industry.
+- Reduced regulatory barrier for cross-border projects.
+- Positive for GBP on policy convergence news.
+
 Markets to watch:
-USD/TRY, Borsa Istanbul 100, Turkish 10y sovereign yield, Turkish banking stocks
+GBP/EUR, FTSE 100 Industrials, UK industrial stocks, EU Commission statements
+
 END STORY
 
 STORY
 Category: FX
-Headline: Japan vows dialogue amid rising yields, JPY volatility risk
+Headline: EU warms to Canada associate membership proposal
+
 What happened:
-Japan’s finance minister said authorities will keep close dialogue with markets as domestic yields climb, signalling concern about JGB moves that could spill into FX volatility.
+EU leaders expressed support for a plan to give Canada 'associate membership' status, with caveats and no guarantees, signalling deeper Canada-EU ties under discussion politically.
+
 Why it matters:
-Market calm depends on credible policy communication; any BOJ policy adjustment or verbal intervention could trigger sharp JPY moves and global carry-trade recalibrations.
+Deeper Canada-EU ties would likely increase cross-border investment, reduce trade frictions, and support the Canadian dollar via improved market access and investor sentiment over time.
+
 Second-order effects:
-- Rapid USD/JPY repricing in reaction to statements.
-- Volatility in yen crosses affecting carry trades.
-- Global equity hedging flows adjust to JPY moves.
+- Higher FDI flows into Canadian sectors.
+- Sector-specific EU program participation boosts exporters.
+- Supportive for CAD versus peripheral EM currencies.
+
 Markets to watch:
-USD/JPY, 10y JGB yield, Nikkei 225, Tokyo volatility index
+CAD/EUR, S&P/TSX, Canada 10-year yield, EU-Canada trade negotiations
+
 END STORY
 
 STORY
 Category: FX
-Headline: Cayman remains top DCM domicile, impacting dollar flows
+Headline: $1bn Turkish outflows spike pressure on lira
+
 What happened:
-Analysis reaffirms Cayman Islands as a leading jurisdiction for debt issuance, underscoring continued offshore use for USD-denominated corporate and structured financings.
+Turkish markets saw roughly $1bn withdrawn amid a stock-market scandal and ministerial interventions, prompting sharp equity losses and intensified selling pressure on the lira today.
+
 Why it matters:
-Sustained Cayman DCM activity supports broader USD funding supply and shapes primary market issuance timing and cross-border capital flow dynamics for investors and banks.
+Rapid capital flight can force FX intervention, steepen local yields, widen CDS spreads, raise funding costs for Turkish corporates and the sovereign, and prompt emergency liquidity measures from authorities.
+
 Second-order effects:
-- Continued demand for USD across offshore markets.
-- Implications for pricing of Eurodollar and eurobond supply.
-- Structuring incentives for cross-border issuers remain strong.
+- Central Bank may sell reserves to defend lira.
+- Higher borrowing costs for Turkish companies.
+- Foreign investors reduce EM allocations.
+
 Markets to watch:
-US dollar LIBOR-OIS spread, Eurodollar futures, US high-yield new issue calendar, iShares USD Bond ETF (IUSB)
+USD/TRY, Turkey 10-year yield, BIST 100, Turkish CDS spreads
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: Fed hikes, US yields hit highest since 2007
+Headline: US borrowing costs reach highest levels since 2007
+
 What happened:
-The Fed raised rates, sending Treasury yields to multi-year highs and prompting a broad repricing of global fixed-income markets as investors rapidly adjusted policy expectations.
+US borrowing costs climbed to levels not seen since 2007 as yields rise on policy tightening, per BBC reports, raising debt-servicing expenses across public and private sectors.
+
 Why it matters:
-Higher yields increase discount rates across asset classes, pressure duration-heavy strategies, and force reassessment of valuations for growth equities and levered credit portfolios.
+Higher nominal yields increase government interest expense, pressure fiscal deficits, compress corporate cashflows and shift investor preference toward higher-yielding fixed income and boost duration sensitivity.
+
 Second-order effects:
-- Outperformance of short-duration assets.
-- Increased hedging demand via interest-rate swaps.
-- Higher funding costs for corporates and governments.
+- Reduced demand for long-duration equities.
+- Refinancing stress for highly leveraged firms.
+- Increased issuance in the near term.
+
 Markets to watch:
-US 2y yield, US 10y yield, TLT ETF, Fed funds futures
+US 10-year yield, 2-year yield, Treasury auctions, Bloomberg US Aggregate
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: Rising yields squeeze American consumers via rates
+Headline: Rising yields start to bite American consumers
+
 What happened:
-Escalating government bond yields have translated into higher consumer borrowing costs — mortgages, credit cards and auto loans — tightening household cash flow and borrowing capacity.
+Consumer borrowing costs are rising as bond yields climb, increasing mortgage, auto loan and credit-card rates and squeezing household budgets and consumption patterns nationwide.
+
 Why it matters:
-Higher consumer rates can depress spending, slow growth and raise default risks, feeding through into consumer credit spreads and securitised-product valuations.
+Higher borrowing rates can slow retail spending, cool economic growth, and influence Fed policy via feedback from consumer demand, inflation metrics and labor-market dynamics.
+
 Second-order effects:
-- Weakening retail sales and consumer discretionary earnings.
-- Higher delinquencies in consumer credit pools.
-- Strain on MBS and ABS valuations.
+- Mortgage refinancing collapses, reducing consumer liquidity.
+- Housing market activity cools in rate-sensitive areas.
+- Auto sales and durables spending may weaken.
+
 Markets to watch:
-30-year mortgage rate, US 10y Treasury yield, Bloomberg US MBS Index, ABS spreads
+30-year mortgage rate, US 10-year yield, credit card APRs, US retail sales
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: Japan watches markets as JGB yields climb
+Headline: Japan's rate rise reshapes JGB curve dynamics
+
 What happened:
-Japanese officials signalled continued dialogue with markets after local yields rose, increasing scrutiny over BOJ policy and potential interventions to calm the bond market.
+Japan raised rates to a 31-year high, pushing up JGB yields and starting a repricing of the yield curve after years of ultra-low rates policy.
+
 Why it matters:
-Any BOJ recalibration would affect global bond curves, yen crosses and carry trades, influencing allocation between sovereign bonds and risk assets globally.
+Higher JGB yields change global portfolio allocations, reduce negative carry trades, and complicate duration hedging for international investors holding Japanese debt and pension liabilities exposure.
+
 Second-order effects:
-- JGB yield moves transmit to global rates.
-- USD/JPY volatility could spike with policy actions.
-- Repricing of global duration exposures.
+- Reduced yen funding boosts global short-term rates.
+- Japanese insurers adjust liability hedging strategies.
+- Cross-border yield differentials attract flows into JGBs.
+
 Markets to watch:
-10y JGB yield, BOJ policy rate guidance, USD/JPY, Japan 2y yield
+Japan 10-year yield, USD/JPY, Global 10-year yields, BoJ statements
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: EBRD boosts Kenya’s local-currency market development
+Headline: BoE holds rates but flags possible rise on energy
+
 What happened:
-The EBRD announced support to grow Kenya’s local-currency bond market, aiming to deepen domestic investor bases and reduce reliance on external financing.
+The Bank of England held interest rates but warned it may raise them further if energy prices remain elevated, signalling conditional tightening amid inflation concerns.
+
 Why it matters:
-Stronger local markets lower sovereign FX risk, improve financing options for corporates, and create new local-currency assets for portfolio diversification in frontier fixed-income allocations.
+Conditional guidance increases rate-path uncertainty, affecting gilt yields, mortgage pricing and sterling, and influences corporate borrowing decisions in the UK and refinancing schedules across sectors.
+
 Second-order effects:
-- Greater local institutional investor participation expected.
-- Reduced sovereign refinancing in hard currency.
-- New corporate LCY issuance standards emerge.
+- Gilt curve steepening on rate-hike risk.
+- Mortgages repriced upward; new lending tighter.
+- Sterling rallies on hawkish surprises.
+
 Markets to watch:
-Kenya 10y yield, Kenyan shilling (KES), EBRD local-currency bond facilities
+UK 2-year yield, UK 10-year gilt, GBP/USD, Bank of England minutes
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: Financial repression risk rises; flows favour stocks over Treasuries
+Headline: Fed hike resets US rate-hike expectations curve
+
 What happened:
-Analysts warn a rising risk of financial repression as policy and regulatory responses evolve; reports show foreign investors increasingly prefer US equities to Treasuries amid debt worries.
+The Fed's rate increase for the first time in three years recalibrated market expectations for future hikes and shortened the implied timeline for peak policy rates.
+
 Why it matters:
-Shifts from sovereign bonds to equities compress liquidity in core fixed-income markets, complicate sovereign funding and may force central banks into unconventional interventions.
+Revising the path for rates affects forward curves, hedging costs, debt issuance timing and valuations across credit and equities, prompting rapid repositioning by investors globally.
+
 Second-order effects:
-- Wider sovereign financing footprints for risky issuers.
-- Increased volatility in core bond markets.
-- Demand for inflation-linked and short-duration products rises.
+- Short-dated yields climb, flattening the curve.
+- Issuers accelerate borrowing before higher rates.
+- Increased demand for rate-hedging instruments.
+
 Markets to watch:
-US 10y Treasury yield, MSCI USA, Treasury inflow/outflow data, TIPS breakevens
+US 2s10s curve, Fed funds futures, Treasury bills, SOFR term spreads
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Gold ticks higher as markets weigh Fed path
+Headline: Rising oil and rates create stagflation risk cocktail
+
 What happened:
-Gold prices ticked up as investors re-assessed the Fed’s tightening path and real yields, seeking safe-haven exposure amid rate and geopolitical uncertainty.
+Rising oil prices combined with higher interest rates and yields raise stagflation concerns, undermining growth prospects while sustaining inflationary pressures, according to market commentary recently.
+
 Why it matters:
-Gold sensitivity to real rates and dollar movements means changing Fed signals could drive volatility, affecting allocations to bullion and related ETFs and miners.
+Stagflation risks complicate central-bank policy, hurt real returns on equities, and make commodity-linked inflation hedges more valuable, shifting allocations towards real assets and inflation-protected securities.
+
 Second-order effects:
-- Increased inflows into gold ETFs during risk-off episodes.
-- Mining equities may re-rate with bullion moves.
-- Hedging demand for inflation protection rises.
+- Higher inflation breakevens widen.
+- Commodity producers benefit earnings visibility.
+- Real assets attract more investor flows.
+
 Markets to watch:
-Gold spot price, GLD ETF, US real 10y yield, DXY
+Brent crude, WTI, US 10-year breakeven, MSCI World Real Assets
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Petrol, diesel price rises push UK inflation higher
+Headline: Iran war uncertainty roils energy markets
+
 What happened:
-Rising petrol and diesel wholesale prices contributed to an uptick in UK inflation, intensifying scrutiny of energy drivers behind consumer-price momentum.
+Energy markets are struggling to model outcomes from Iran-related conflict scenarios, creating price volatility and supply-risk premiums amid unclear endgames, according to energy market reports.
+
 Why it matters:
-Higher transport fuel inflation pressures BoE decisions and real disposable incomes, potentially dampening consumption and altering demand patterns for refined products.
+Geopolitical risk can drive oil and gas price spikes, disrupt shipping and insurance costs, and feed through into inflation and central-bank decisions and market volatility.
+
 Second-order effects:
-- Softer consumer spending growth in the UK.
-- Wider nominal wage pressure as cost-of-living rises.
-- Increased hedging demand for fuel refineries.
+- Higher freight and insurance costs for crude shipments.
+- Switch to alternative supply routes and buyers.
+- Hedging demand for oil futures rises.
+
 Markets to watch:
-Brent crude, RBOB gasoline futures, UK CPI, UK 10y gilt
+Brent crude, Middle East tanker routes, LNG spot prices, Baltic Dry Index
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Europe’s BESS boom raises metals demand concerns
+Headline: Fuel-price rises push UK inflation up
+
 What happened:
-Analysis of Europe’s battery energy-storage system (BESS) expansion underscores substantial additional demand for battery raw materials and potential grid-scale investment shifts.
+Rising petrol and diesel prices contributed to a jump in UK inflation readings in recent months, reflecting higher transport costs and lifting headline CPI figures.
+
 Why it matters:
-Rapid BESS deployment pressures lithium, nickel and cobalt markets, reshapes power-price seasonality, and creates new industrial demand that commodity-focused portfolios must track closely.
+Higher fuel inflation pressures household budgets, risks second-round wage demands, and may prompt central banks to reconsider policy timing in affected economies.
+
 Second-order effects:
-- Strain on battery raw-material supply chains.
-- Incentive for upstream battery mining investments.
-- Energy producers face new storage competition.
+- Reduced consumer real incomes, weaker discretionary spending.
+- Transport and logistics sector margins under pressure.
+- Nominal wages and union bargaining pick up.
+
 Markets to watch:
-Lithium carbonate price, LME Nickel, LME Cobalt, European power spreads
+UK CPI, Brent crude, RPI measures, Pound sterling
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Heathrow runway link ties aviation to carbon and fuel pricing
+Headline: Europe seeks to reboot battery industry supply chain
+
 What happened:
-Advisers recommended the third Heathrow runway proceed only if airlines fund cleaner flying, linking airport expansion decisions to airline carbon and fuel-cost responsibilities.
+Analysts and policymakers debate strategies to rebuild Europe's battery industry, focusing on securing raw materials, processing and gigafactory capacity to reduce dependence on Asia sources.
+
 Why it matters:
-Policy tying airport capacity to environmental charges elevates long-term jet-fuel demand uncertainty and strengthens link between emission pricing and airline margins.
+Scaling battery supply chains affects demand for lithium, nickel and cobalt, influences energy transition timelines, and shapes industrial policy, trade tensions and investment flows.
+
 Second-order effects:
-- Airlines face higher operating costs via levies.
-- Greater hedging of jet-fuel and carbon exposure.
-- Potential boost to sustainable aviation fuels demand.
+- Upward pressure on battery metals prices.
+- Capex cycle in Europe for gigafactories.
+- Reduced reliance on Asian processing hubs.
+
 Markets to watch:
-Jet fuel futures, Brent crude, EU ETS carbon EUA, IAG stock (IAG LN)
+Lithium carbonate, Nickel prices, Cobalt, European battery manufacturing equities
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Can Europe recharge its battery industry?
+Headline: Heathrow third runway linked to cleaner-flying funding
+
 What happened:
-Reports examine Europe’s efforts to scale battery manufacturing and supply chains, highlighting policy, investment and raw-material hurdles facing continental EV ambitions.
+Advisers say a third Heathrow runway should proceed only if airlines fund cleaner flying, linking infrastructure expansion to emissions and financing requirements in the recommendation.
+
 Why it matters:
-Success or failure will materially shift demand for metals, influence EV supply-cost curves, and determine whether Europe secures a downstream manufacturing premium.
+Conditioning runway approval on airline-funded decarbonisation raises costs for carriers, affects future jet fuel demand, and introduces potential carbon-pricing liabilities and regulatory uncertainty for airport investments.
+
 Second-order effects:
-- Regional supply-chain localisation impacts commodity sourcing.
-- Outsized returns for upstream miners if supply constrained.
-- Reallocation of auto capital expenditures.
+- Higher operational costs for airlines.
+- Shift toward sustainable aviation fuels demand.
+- Airport financing conditional on green commitments.
+
 Markets to watch:
-LME Copper, Lithium carbonate, Tesla/NXPI supply-chain stocks, European auto OEMs
+Jet fuel futures, Brent crude, IATA airline indices, UK emissions allowances
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: Fed hikes first time since 2023; policy path reassessed
+Headline: Fed raises rates, signaling tighter monetary stance
+
 What happened:
-The Federal Reserve raised interest rates, prompting markets to re-evaluate the trajectory of monetary tightening, inflation risks and the timing of subsequent hikes.
+The Federal Reserve raised policy rates for the first time in three years, citing inflation pressures and a reassessment of the economic outlook recently globally.
+
 Why it matters:
-A revised Fed path affects global financing conditions, asset allocation between equities and bonds, and central-bank policy divergence that drives FX and capital flows.
+Fed tightening alters global liquidity, raises borrowing costs, pressures emerging markets, and recalibrates asset valuations across equities, bonds and currencies, while reshaping investor risk appetite and flows.
+
 Second-order effects:
-- Repricing of rate expectations in Fed funds futures.
-- Global risk-asset repricing and volatility spikes.
-- Spillovers to EM borrowing costs and rates.
+- Capital repatriation to US assets.
+- EM central banks face tightening pressure.
+- Higher discount rates lower equity valuations.
+
 Markets to watch:
-Fed funds futures, US CPI, US 2y and 10y yields, S&P 500
+Fed funds futures, DXY, EMBI, S&P 500
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: UK pension projected above £13,000 amid slowing wage growth
+Headline: Japan rate hike alters global capital flows
+
 What happened:
-Analysts project the UK state pension could exceed £13,000 as wage growth slows to 3.9%, feeding into fiscal debate ahead of budget season.
+Japan's policy shift to a 31-year high changes carry trades and could redirect global capital into Japanese assets as yields rise from long-term lows quickly.
+
 Why it matters:
-Rising pension liabilities amid weaker wage growth heighten fiscal constraints, influence deficit forecasts and may change government spending or tax choices before the election cycle.
+Reallocation into Japanese assets can tighten global liquidity, lift JPY, affect EM funding and prompt other central banks to reassess their policy timelines and outlooks.
+
 Second-order effects:
-- Higher gilt issuance or altered fiscal assumptions.
-- Pressure on public finances elevates borrowing needs.
-- Pension-sector asset-allocation shifts toward income assets.
+- EM FX under renewed depreciation pressure.
+- Global yield curve repricing across maturities.
+- Pressure on US long-end as repatriation occurs.
+
 Markets to watch:
-UK 10y gilt yield, UK fiscal deficit projections, GBP/USD, FTSE 100
+USD/JPY, Japan 10-year yield, MSCI Emerging Markets, carry-trade indicators
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: AI regulation gridlock raises policy risk for tech sector
+Headline: UK inflation rises as fuel costs climb
+
 What happened:
-Political deadlock in the US and international calls for AI safeguards, plus OpenAI disclosures of safety incidents, increase regulatory uncertainty for AI-related firms.
+Petrol and diesel price increases pushed UK inflation higher, adding to CPI upside and complicating the Bank of England's inflation outlook materially ahead of next meeting.
+
 Why it matters:
-Regulatory fragmentation could reshape AI business models, compliance costs and valuations for major tech companies, affecting investment, M&A and R&D allocations.
+Persistent fuel-driven inflation could prompt tighter monetary policy, raise borrowing costs, compress real incomes, slow consumption, and heighten fiscal and political debates about support measures.
+
 Second-order effects:
-- Higher compliance and implementation costs for AI firms.
-- Potential delays or halts to large-scale AI deployments.
-- Divergent rules cause jurisdictional investment shifts.
+- Higher mortgage rates reduce housing turnover.
+- Wage pressures may lead to strike risk.
+- Pound sensitive to BoE hawkish guidance.
+
 Markets to watch:
-NASDAQ-100, NVIDIA (NVDA), OpenAI-related vendors, EU AI Act developments
+UK CPI, UK 2-year gilt, GBP/USD, Bank of England minutes
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: Regulatory intervention rises: water complaints, steel nationalisation
+Headline: IFC and WTO warn EMs face volatility hit hardest
+
 What happened:
-Surging complaints against water firms and state moves to nationalise a steel producer highlight increasing political willingness to intervene in strategic industries.
+IFC and WTO noted that volatility in financial conditions disproportionately affects emerging markets, amplifying trade and financing shocks amid tighter global liquidity this year and policy responses.
+
 Why it matters:
-Growing state involvement elevates regulatory and political risk premiums across utilities and industrials, altering investor return expectations and potential sovereign contingent liabilities.
+EMs with large external financing needs become more vulnerable to capital-flow reversals, currency depreciation, and higher borrowing costs, forcing policy adjustments including rate hikes and capital controls.
+
 Second-order effects:
-- Repricing of regulated-sector valuations.
-- More defensive positioning among industrial investors.
-- Credit implications for corporate issuers in affected sectors.
+- Tighter EM spreads raise sovereign funding costs.
+- Multilateral lending demand increases.
+- Trade financing terms worsen for importers.
+
 Markets to watch:
-Severn Trent, Tata Steel (TATE LN), UK 10y gilt, FTSE 350 Industrials
+EMBI Global, USD/EM FX, Emerging-market CDS, IMF/World Bank announcements
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: Volatility and EMs: IFC, WTO flag disproportionate hit
+Headline: Geopolitical risk from Iran complicates global outlook
+
 What happened:
-IFC and WTO analyses emphasise that financial-condition volatility disproportionately impacts emerging markets, especially those reliant on external financing and fickle capital flows.
+Uncertainty around an Iran conflict is elevating risks to global energy supplies, trade routes and insurance, creating planning challenges for policymakers, companies and investors.
+
 Why it matters:
-Heightened EM susceptibility means investors should reweight exposures, consider local-currency development and watch for sovereign financing stress triggering contagion risks.
+Heightened geopolitical risk can translate into commodity price shocks, tighter financial conditions, and slower growth via supply-chain and confidence channels, prompting central banks and fiscal responses.
+
 Second-order effects:
-- Higher sovereign borrowing costs for vulnerable EMs.
-- Accelerated sell-offs in EM equities and bonds.
-- Increased demand for FX-hedged EM instruments.
+- Supply-chain rerouting raises costs.
+- Insurance premia for shippers spike.
+- Policy uncertainty delays investment decisions.
+
 Markets to watch:
-EMBI Global, MSCI Emerging Markets, USD/BRL, South Africa 10y yield
+Brent crude, Global shipping indices, Insurance spreads, IMF updates
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Hedge funds are wild card in turbulent bond markets
+Headline: Fund run in Turkey widens corporate credit stress
+
 What happened:
-Reports suggest hedge funds’ trading activity is amplifying volatility in the bond market, exerting outsized influence on liquidity and reinvestment dynamics during rapid yield moves.
+Turkish stocks slid as investors withdrew about $1bn in a 'fund run', stressing liquidity and increasing default risk across local corporates and bank funding channels.
+
 Why it matters:
-Large, leveraged positions can exacerbate price moves, widen credit spreads and complicate market-making, posing risk to investors in illiquid credit instruments and funds.
+Liquidity shocks can force rating downgrades, widen corporate spreads, strain bank balance sheets and trigger central-bank support or regulatory forbearance, including targeted liquidity facilities quickly.
+
 Second-order effects:
-- Episodic widening of corporate credit spreads.
-- Increased margin calls and forced liquidations risk.
-- Greater scrutiny on prime-broker counterparty exposure.
+- Rising corporate CDS spreads in Turkey.
+- Banks face higher NPL risk.
+- Foreign lenders reassess exposure.
+
 Markets to watch:
-BofA US IG Option-Adjusted Spread, US HY spread (CDX), HFRX Global Hedge Fund Index
+Turkey 5-year CDS, Turkish corporate bond indices, BIST 100, Turkish banking stocks
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: MMF growth links to systemic risk, investor fragility
+Headline: EBRD backs Kenya local-currency market development
+
 What happened:
-A study links fast-expanding money market funds to exuberant equity markets and systemic vulnerability, highlighting potential rapid redemptions and short-term funding strain.
+EBRD announced support measures to develop Kenya's local-currency market, aiming to deepen liquidity and broaden investor participation in KES debt markets over coming years regionally.
+
 Why it matters:
-Large, liquid MMFs can create fire-sale dynamics in stress, tightening credit conditions and elevating short-term borrowing costs for corporates reliant on CP and repo markets.
+Stronger local-currency markets reduce FX mismatches, lower rollover risks for sovereigns and corporates, and attract domestic institutional investors, supporting sustainable financing resilience and longer-term fixed income.
+
 Second-order effects:
-- Spike in repo rates during redemptions.
-- Short-term commercial paper yield volatility.
-- Knock-on pressure for short-dated corporate financing.
+- Lower external financing dependency for Kenya.
+- Boost to KES-denominated corporate issuance.
+- Encourages pension fund allocation to domestic bonds.
+
 Markets to watch:
-Prime MMF AUM flows, Overnight repo rate, Commercial paper yields, CP outstanding volumes
+Kenya 10-year yield, KES/USD, EBRD program updates, Kenyan corporate bonds
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Cayman domicile dominance shapes DCM credit issuance
+Headline: telMAX secures $215m structured growth financing
+
 What happened:
-Analysis confirms the Cayman Islands’ ongoing prominence as a jurisdiction for debt capital markets issuance, influencing structuring choices and cross-border credit supply.
+telMAX announced $215 million growth financing via Hamilton Lane and an upsized PSIC credit facility, providing liquidity for expansion and operational investment in telecom sector.
+
 Why it matters:
-Cayman-based deals affect investor recourse, legal frameworks and disclosure norms, altering risk assessment for international creditors and secondary-market liquidity dynamics.
+Upsized financing reduces near-term refinance risk, supports capex, and signals investor appetite for structured telecom credit in private markets, potentially improving secondary credit spreads regionally.
+
 Second-order effects:
-- Continued offshore structuring for USD bond issuance.
-- Legal-structure considerations influence pricing across deals.
-- Secondary liquidity patterns concentrated in offshore markets.
+- Benchmark for private structured telecom deals.
+- Eases pressure on telMAX balance-sheet metrics.
+- Could prompt similar peer refinancing.
+
 Markets to watch:
-USD eurobond spreads, Global high-yield new-issue calendar, CLO issuance volumes, Euroclear/CTM flows
+telMAX credit facility terms, Hamilton Lane announcements, telecom debt secondary spreads, PSIC lenders
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Private credit growth raises refinancing and default concerns
+Headline: Momentum Financial upsizes loan facility to C$810m
+
 What happened:
-Reports highlight private credit’s expansion and the growing role of non-bank lenders in leveraged finance, raising questions about transparency and refinancing risk cycles.
+Momentum Financial Services Group renewed and upsized its loan facility with Ares to C$810 million, supporting growth capital and signaling lender confidence in the Canadian market.
+
 Why it matters:
-Large private-credit exposure can mask credit deterioration, complicate recovery prospects and amplify systemic risk if coordinated refinancing stress emerges across illiquid portfolios.
+Large sponsor-backed facilities ease liquidity constraints, lower refinancing risk for firms reliant on private credit, and set a pricing reference for similar issuers regionally and short-term.
+
 Second-order effects:
-- Increased scrutiny of covenant-lite loan terms.
-- Higher default severity in illiquid workouts.
-- Banks’ exposure via syndication and warehouses increases.
+- Private credit market activity may accelerate.
+- Improved confidence among sponsor-backed borrowers.
+- Potential compression in mid-market spreads.
+
 Markets to watch:
-S&P/LSTA Leveraged Loan Index, BDC equity ETFs, US leveraged loan CLO spreads, US HY CDS
+C$ corporate loan spreads, Ares announcements, Momentum Financial disclosures, Canadian private credit indices
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: EBRD’s Kenya support reduces sovereign FX credit risk
+Headline: Study links MMF growth to systemic market risks
+
 What happened:
-EBRD support to Kenya’s local-currency market aims to deepen domestic funding and reduce sovereign reliance on foreign-currency borrowing, improving credit resilience for frontier issuers.
+A study from Bayes Business School links rapid money-market fund expansion to exuberant equity markets and potential systemic risk amplification through liquidity mismatches and rollover stresses.
+
 Why it matters:
-Stronger local-currency markets lower sovereign FX mismatches, reduce rollover risk and create investment-grade opportunities for credit investors seeking higher yields with lower currency exposure.
+MMF-driven liquidity shocks could transmit stress to short-term funding markets, elevate repo haircuts, and force fire sales in equities during stress episodes, leading to systemic strain.
+
 Second-order effects:
-- Lower sovereign CDS premia if LCY market deepens.
-- More local-currency corporate issuance expected.
-- Reduced foreign-exchange rollover vulnerability.
+- Greater scrutiny of MMF liquidity rules.
+- Repo market haircut volatility increases.
+- Banks reduce reliance on MMF-funded short-term financing.
+
 Markets to watch:
-Kenya 10y yield, Kenya sovereign CDS, EMBI Global, Kenyan shilling (KES)
+Money Market Fund AUM, Overnight repo rates, VIX, short-term funding spreads
+
 END STORY
