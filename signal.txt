@@ -1,457 +1,627 @@
 DAILY SIGNAL
-1: 6
-2: 11
-3: 10
-4: 23
-5: 3
+1: 10
+2: 13
+3: 12
+4: 11
+5: 2
 END DAILY SIGNAL
 
 STORY
 Category: EQUITIES
-Headline: Buffett steps down after six decades at Berkshire
+Headline: Paramount clears merger path with Warner Bros after US settlement
+
 What happened:
-Warren Buffett announced his departure after six decades leading Berkshire Hathaway, ending a long tenure that shaped the conglomerate’s capital allocation and investment strategy across multiple industries and holdings.
+Paramount reached a settlement with several US states over antitrust concerns, removing a legal obstacle to a proposed $110bn merger with Warner Bros, clearing a major deal through state-level litigation hurdles.
+
 Why it matters:
-Leadership change raises governance and succession questions at a $700bn-plus conglomerate, potentially altering capital allocation, buybacks and activist interest — impacting major equity positions held by Berkshire.
+Settlement materially increases likelihood of one of 2026’s largest media consolidations, reshaping entertainment sector ownership, synergies, and competitive dynamics for streaming and content monetisation.
+
 Second-order effects:
-- Increased volatility in Berkshire shares and large-cap insurers.
-- Re-evaluation of passive holdings in Apple and banks.
-- Potential shift in long-term value investing flows.
+- Scale could pressure smaller streaming rivals’ margins.
+- Debt-funded deal could raise sector leverage.
+- Content licensing market may reconsolidate.
+
 Markets to watch:
-BRK.B, BRK.A, AAPL, S&P 500
+Paramount, Warner Bros Discovery, Netflix, Disney, US media M&A pipeline
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: Heineken reports progress on current share buyback programme
+Headline: Buffett steps down after six decades at Berkshire Hathaway
+
 What happened:
-Heineken disclosed progress under its ongoing share buyback programme, reducing outstanding shares and signalling management intent to return capital to shareholders and support underlying EPS performance.
+Warren Buffett announced his resignation after six decades at Berkshire Hathaway, marking the end of an era for the conglomerate and prompting governance and succession scrutiny across long-tenured leadership structures.
+
 Why it matters:
-Ongoing repurchases tighten free float, lift EPS and can support near-term share price; sets precedent for regional beverage peers and impacts valuation multiples in consumer staples.
+Leadership change at an iconic investment vehicle may trigger re-rating of Berkshire shares, investor reassessment of capital allocation and activist interest in conglomerate break-up or strategy shifts.
+
 Second-order effects:
-- Higher shareholder yield compresses dividend yields elsewhere.
-- M&A optionality could be reduced by cash returns.
-- Benchmarking boosts European consumer staples valuations.
+- Short-term volatility in BRK shares.
+- Repricing of conglomerate discounts.
+- Increased M&A or asset-sale speculation.
+
 Markets to watch:
-HEIA.AS, Stoxx Europe 600, AEX
+Berkshire Hathaway (BRK.A/BRK.B), S&P 500, insurer stocks, activist investor activity
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: Morgan Stanley warns US stocks face near-term 7% downside
+Headline: RBC downgrades Burberry as luxury demand cools
+
 What happened:
-A Morgan Stanley strategist publicly warned US equities risk a roughly 7% near-term correction, citing elevated positioning and macro risks, prompting caution among institutional investors.
+RBC turned cautious on Burberry, citing softer luxury demand trends. The peer note signals analyst downgrades and weaker discretionary spending forecasts in key markets like China and Europe.
+
 Why it matters:
-High-profile downside forecast can trigger risk-parity and CTA deleveraging, shift tactical allocations, and increase demand for hedges, affecting equity flows and volatility pricing.
+Analyst caution on a bellwether luxury brand may presage wider sector earnings downgrades and valuation compression across premium apparel and accessories stocks.
+
 Second-order effects:
-- Option-implied volatility likely to spike.
-- Flows into cash and short-duration bonds.
-- Momentum strategies may unwind long exposures.
+- Heightened scrutiny on inventory and margins.
+- Pressure on other mid-cap luxury names.
+- Shift toward defensive consumer stocks.
+
 Markets to watch:
-S&P 500, VIX, Nasdaq 100, SPX futures
+Burberry, LVMH, Kering, Richemont, MSCI World Consumer Discretionary
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: Google’s Gemini compromised in security test at three firms
+Headline: Turkish authorities scramble amid stock-market scandal
+
 What happened:
-A security exercise reportedly breached Google's Gemini AI at three companies, exposing vulnerabilities in deployed generative AI models and raising questions about enterprise safety and control measures.
+Turkish regulators moved quickly to contain fallout from a stock-market scandal that rattled investor confidence, prompting emergency interventions and signalling elevated political and market risk in Turkey.
+
 Why it matters:
-Demonstrates practical AI attack vectors that could prompt corporate freezes on deployments, increase cybersecurity spend, and trigger regulatory scrutiny that disproportionately impacts big-cap AI-exposed tech stocks.
+Heightened intervention raises concerns about market fairness and foreign investor flight, increasing idiosyncratic equity risk and potential contagion into regional EM equity flows.
+
 Second-order effects:
-- Cybersecurity stocks may see re-rating and inflows.
-- Corporate AI rollouts could be delayed.
-- Regulators may mandate stricter AI controls.
+- Higher cost of capital for Turkish corporates.
+- Foreign selling pressure on BIST index.
+- EM risk-premium repricing.
+
 Markets to watch:
-GOOGL, NVDA, CRWD, Cybersecurity ETF HACK
+Borsa Istanbul (BIST 100), Turkish lira, regional EM equity ETFs, MSCI EM
+
 END STORY
 
 STORY
 Category: EQUITIES
-Headline: MPs criticise British Steel rescue plan as not credible
+Headline: Nasdaq delisting: Davis Commodities exits exchange, trades OTC
+
 What happened:
-Members of Parliament publicly criticised the government-backed British Steel plan as lacking credibility, questioning viability, funding adequacy and future ownership arrangements for the steelmaker.
+Davis Commodities Limited announced Nasdaq delisting and will continue trading on OTC Markets, reducing regulatory visibility and potentially liquidity for shareholders and creditors.
+
 Why it matters:
-Political scepticism increases restructuring risk for the company, raises creditor loss probability and pressures listed steel and industrial suppliers due to potential supply-chain disruptions.
+Delisting reduces liquidity and institutional investor eligibility, often depressing share prices and complicating equity-financing or covenant compliance for the issuer.
+
 Second-order effects:
-- Suppliers may tighten trade credit exposure.
-- UK industrial sector valuations could weaken.
-- Potential for state intervention increases.
+- Increased bid-ask spreads for shares.
+- Analysts drop coverage, reducing disclosure.
+- Potential covenant breach risk for lenders.
+
 Markets to watch:
-FTSE 350 Industrials, iBoxx GBP Non-Gilt, S&P Global Steel Index
+Davis Commodities (OTC), Nasdaq SmallCap indices, OTC liquidity metrics
+
 END STORY
 
 STORY
 Category: FX
-Headline: Japan raises rates to 31-year high
+Headline: UK borrowing surge adds fresh pressure on sterling
+
 What happened:
-Japan’s central bank lifted policy rates to their highest level in 31 years in response to rising price pressures, signalling a departure from decades of ultra-loose policy.
+Unexpectedly higher UK government borrowing before the Budget raised concerns about fiscal discipline, increasing gilt issuance needs and placing near-term downward pressure on sterling.
+
 Why it matters:
-BoJ tightening reshapes global carry trades, supports the yen and could steepen Japan’s yield curve, forcing portfolio rebalancing across sovereign and FX markets.
+Higher issuance can widen gilt yields and weigh on GBP via supply-driven rate expectations and reduced investor appetite for sterling assets.
+
 Second-order effects:
-- USD/JPY likely to tighten lower.
-- Japanese fixed-income foreign inflows may increase.
-- Global duration positioning could be adjusted.
+- Tightening gilt term premia.
+- Sterling volatility spikes.
+- Imported inflation pressure via weak GBP.
+
 Markets to watch:
-USD/JPY, 10y JGB yield, Nikkei 225
+GBP/USD, UK 10-year gilt yield, EUR/GBP, UK short-term bill yields
+
 END STORY
 
 STORY
 Category: FX
-Headline: ECB launches digital euro in wholesale markets via blockchain
+Headline: Bank of England issues foreign reserves notice for 2026
+
 What happened:
-The ECB opened a blockchain link and debuted a digital euro in wholesale markets, enabling tokenised euro settlements and experimentation with distributed ledger infrastructure for interbank transactions.
+The Bank of England published its “Foreign Currency Reserves 2026” market notice, signalling adjustments or transparency changes in reserves management and potential FX operations.
+
 Why it matters:
-Wholesale digital euro could alter EUR liquidity dynamics, shorten settlement times and change cross-currency funding needs, influencing FX swaps and short-term euro interest differentials.
+Shifts in reserves policy or composition can influence sterling liquidity, signalling central bank interventions or portfolio rebalancing that affect FX markets and sovereign funding costs.
+
 Second-order effects:
-- EUR basis swap volatility may shift.
-- Faster cross-border settlements reduce FX funding frictions.
-- Banks may reconfigure EUR liquidity pools.
+- Altered demand for reserve currencies.
+- Short-term GBP liquidity swings.
+- Impact on UK yield curve via FX operations.
+
 Markets to watch:
-EUR/USD, €STR, EUR basis swaps
+GBP/USD, UK FX reserves data, USD, EUR, JPY
+
 END STORY
 
 STORY
 Category: FX
-Headline: Hong Kong to expand dim sum bond and yuan commodity markets
+Headline: Digital euro debuts in wholesale markets; ECB tokenisation advances
+
 What happened:
-Hong Kong announced plans to expand the dim sum bond market and develop offshore yuan-denominated gold and commodity markets, aiming to deepen CNH liquidity and product diversity.
+The euro made its wholesale-market debut via eurosystem tokenised platforms, with the ECB opening links to financial markets and pilot investment of reserve funds into tokenised securities.
+
 Why it matters:
-Broader offshore yuan issuance and commodity-dominated yuan products strengthen CNH liquidity, potentially reducing FX hedging costs and accelerating yuan internationalisation and capital market development.
+Tokenised central-bank money alters settlement mechanics, reduces counterparty settlement risk, and could change demand for euros in cross-border wholesale transactions.
+
 Second-order effects:
-- Increased demand for CNH instruments.
-- RMB-denominated commodity pricing develops.
-- Offshore gold market liquidity improves.
+- Faster cross-border FX settlement.
+- Reduced FX settlement risk premia.
+- Competition for dollar in wholesale FX.
+
 Markets to watch:
-USD/CNH, CNH yield curve, HKD
+EUR/USD, EONIA/€STR spreads, ECB tokenisation trials, EUR wholesale liquidity
+
 END STORY
 
 STORY
 Category: FX
-Headline: UK courting Canada and Europe; no guarantees yet
+Headline: US-China AI safety talks ahead of Trump-Xi summit ease tensions
+
 What happened:
-Canadian ministers and UK officials discussed closer ties and potential “associate” arrangements with European structures, with warm words but no firm guarantees on membership or trade accords.
+US and China discussed a framework for AI safety ahead of the Trump-Xi summit, signalling cooperation on technology governance and reducing some geopolitical tail-risk.
+
 Why it matters:
-Prospect of deeper UK-Canada-Europe cooperation could lift sentiment toward sterling and Canadian dollar if perceived as improving trade integration and regulatory alignment.
+Reduced tech policy escalation can ease RMB volatility, relieve pressure on tech-sector capital flows, and limit capital-control-driven FX moves between USD and CNY.
+
 Second-order effects:
-- FX volatility may briefly narrow on positive headlines.
-- Export-sensitive stocks could re-rate.
-- Negotiation uncertainty keeps spreads elevated.
+- Lower risk premium on CNY.
+- Improved US-China capital flow stability.
+- Tech sector sentiment boost.
+
 Markets to watch:
-GBP/CAD, FTSE 100, S&P/TSX
+USD/CNY, NASDAQ-100, Chinese equities, USD, onshore bond yields
+
 END STORY
 
 STORY
 Category: FX
-Headline: BoE holds rates but flags further rises if energy stays high
+Headline: Tory tax-free shopping pledge could lift visitor-driven sterling flows
+
 What happened:
-The Bank of England paused tightening but warned it would raise rates further if elevated energy prices persist, signaling a conditional hawkish stance to contain inflation risks.
+UK Conservatives pledged to reinstate tax-free shopping for tourists, a policy aimed at boosting retail tourism receipts and potentially increasing inbound sterling transactions.
+
 Why it matters:
-A hawkish BoE tilt supports sterling, raises short-end gilt yields and influences global rate differentials that drive carry and currency flows into GBP.
+If implemented, rule changes could modestly increase tourist-related GBP demand and support retail-sector revenues, with implications for short-term capital flows and FX seasonal patterns.
+
 Second-order effects:
-- Short-end gilt yields may rise.
-- GBP carry trades could attract flows.
-- UK equities sensitive to rates may underperform.
+- Tailwind for London retail stocks.
+- Increased short-term GBP receipts in tourism hotspots.
+- Potential tax revenue trade-offs.
+
 Markets to watch:
-GBP/USD, UK 2y yield, Gilt curve
+GBP/USD, UK tourism-related equities, retail sales data, GBP/EUR
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: Sovereign bond volatility spikes as fuel drives inflation fears
+Headline: UK borrowing surprise forces market repricing of gilts
+
 What happened:
-Late Q3 sovereign bond markets saw elevated volatility as rising fuel prices renewed inflation concerns and muddied rate expectation forecasts across core markets.
+Unexpected surge in UK pre-Budget borrowing increased near-term gilt supply needs, triggering a repricing of yields higher and widening of term premia across the curve.
+
 Why it matters:
-Higher sovereign volatility widens risk premia, complicates duration management for portfolios, and affects pricing for corporates and structured products tied to sovereign curves.
+Higher gilt issuance can lift yields, steepen the curve, and raise financing costs for government and sterling-based borrowers, impacting portfolios sensitive to duration.
+
 Second-order effects:
-- Hedging costs for duration increase.
-- Flows into cash and short-term instruments.
-- Curve steepening potential in volatile moves.
+- Pension fund liability hedges under stress.
+- Sovereign curve steepening.
+- Pressure on mortgage pricing.
+
 Markets to watch:
-US 10y yield, UK 10y Gilt, German 10y Bund, Brent
+UK 2y, 5y, 10y gilt yields, SONIA swaps curve, gilt OTC liquidity
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: ASX unveils new bond repo benchmark amid secured finance boom
+Headline: Eurosystem brings central-bank money to tokenised finance
+
 What happened:
-ASX introduced a new bond repo benchmark to standardise pricing in Australia’s growing secured financing market, aiming to improve transparency and liquidity for repo users.
+The ECB and Eurosystem launched initiatives to permit central-bank money in tokenised finance, including Pontes platform investments and links to wholesale markets, altering settlement infrastructures.
+
 Why it matters:
-A formal benchmark reduces execution friction, eases pricing for secured funding, and could lower borrowing costs for Australian issuers and market-makers in the repo market.
+Tokenisation shortens settlement cycles, reduces counterparty credit risk and could lower demand for short-duration cash instruments, changing money-market dynamics and liquidity provisioning.
+
 Second-order effects:
-- Reduced counterparty risk premium in secured lending.
-- Domestic bond market liquidity may deepen.
-- Short-term funding cost volatility may fall.
+- Reduced settlement fails in repo markets.
+- Pressure on traditional MMF yields.
+- Faster collateral rehypothecation cycles.
+
 Markets to watch:
-ASX 200, Australia 3M BBSW, Australian 10y yield
+Euro short-term rates, EONIA/€STR, Euro area repo rates, tokenised asset issuance
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: ECB opens blockchain link to wholesale markets
+Headline: BOE reserves notice may foreshadow FX market interventions
+
 What happened:
-The ECB established a blockchain connection enabling distributed ledger-based settlements for wholesale participants, a structural step toward integrating DLT into public market infrastructure.
+Bank of England’s market notice on foreign currency reserves highlighted transparency changes and potential operational adjustments, prompting speculation about FX intervention readiness.
+
 Why it matters:
-DLT settlement can shorten settlement cycles and alter demand for short-term sovereign collateral, impacting repo pricing and central bank liquidity operations in the eurozone.
+Signals around reserves management can alter expectations for BOE intervention in FX or gilt markets, influencing sterling volatility and short-term rate expectations.
+
 Second-order effects:
-- Demand for short-dated Bunds could shift.
-- Repo market operational risk profile changes.
-- Custody and settlement costs may decline.
+- Increased gilt market sensitivity to BOE signals.
+- FX option-implied volatility moves.
+- Changes in hedging demand.
+
 Markets to watch:
-€STR, Bund futures, Eurozone repo rates
+GBP implied volatility, UK 2y/10y yields, FX reserves reports
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: UK scales tokenisation of wholesale financial markets
+Headline: Money market funds' rapid growth flagged as systemic risk
+
 What happened:
-City of London announced a plan to scale tokenisation in wholesale markets, promoting digital securities issuance and regulated DLT use across fixed-income and repo markets.
+A study linked fast-growing money market funds to “exuberant” equity markets and systemic risk, highlighting vulnerabilities in short-term funding and liquidity chains.
+
 Why it matters:
-Tokenisation could fragment liquidity initially but offer new collateral types and faster settlement, changing central bank operations and the structure of short-term funding markets.
+Large, growth-driven MMFs increase redemption-driven fire-sale risk, potentially transmitting stress to short-term rates, commercial paper markets and bank funding conditions.
+
 Second-order effects:
-- New collateral classes may emerge for repo.
-- Institutional adoption could pressure legacy infrastructure.
-- Regulatory clarity will shape pace of issuance.
+- Higher liquidity premia for short-term paper.
+- Regulatory scrutiny and potential reform.
+- Volatility in CP and repo markets.
+
 Markets to watch:
-UK Gilts 2y, iBoxx Sterling, GBP swap spreads
+US Treasury Bill yields, commercial paper spreads, MMF flows, repo rates
+
 END STORY
 
 STORY
 Category: FIXED INCOME
-Headline: AIR Limited launches senior unsecured notes offering
+Headline: Fed, BoE tighten scrutiny of banks’ trading exposures after Jane Street loss
+
 What happened:
-AIR Limited initiated a senior unsecured notes offering, adding corporate supply into the public debt markets and providing a fresh credit-price discovery point for the travel sector.
+Fed and Bank of England stepped up oversight of banks’ exposure to trading firms after a large trading-firm loss, increasing regulatory focus on market-risk and intraday liquidity practices.
+
 Why it matters:
-The deal will reveal investor appetite for travel/leisure credit risk and could repricing risk in the sector’s high-yield cohort if demand is weak or strong.
+Greater scrutiny could force banks to hold more capital or liquidity against trading exposures, raising funding costs and altering balance-sheet allocation toward safer assets.
+
 Second-order effects:
-- European high-yield spreads may adjust.
-- Comparable issuers could repriced by the deal outcome.
-- Bank balance-sheet exposures monitored by regulators.
+- Reduced proprietary trading risk-taking.
+- Higher borrowing costs for trading desks.
+- Shift into safer sovereign bonds.
+
 Markets to watch:
-iTraxx Crossover, AIR Limited notes, European HY index
+Bank credit spreads, senior bank bond yields, SIFIs’ liquidity ratios, interbank rates
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: JP Morgan says oil price forecasting now highly uncertain
+Headline: Oil price forecasting hit by geopolitical uncertainty over Iran actions
+
 What happened:
-JP Morgan reported difficulty in forecasting oil prices amid heightened geopolitical risk tied to US policy and tensions with Iran, increasing model uncertainty for commodity strategists.
+Analysts, including JP Morgan, admitted difficulty forecasting oil prices amid heightened geopolitical risk tied to US-Iran tensions, amplifying near-term oil price uncertainty.
+
 Why it matters:
-Heightened oil-price uncertainty complicates inflation forecasting, central-bank policy decisions and corporate margin outlooks across energy-sensitive sectors and commodity-linked assets.
+Higher unpredictability raises price volatility, complicates hedging for producers and consumers and may prompt inventory adjustments across refiners and traders.
+
 Second-order effects:
-- Volatility premia in oil options may rise.
-- Hedging costs for airlines and refiners increase.
-- Strategic petroleum reserve considerations re-emerge.
+- Wider Brent backwardation/contango swings.
+- Increased oil option implied volatility.
+- Hedging costs for airlines and refiners rise.
+
 Markets to watch:
-Brent, WTI, US 10y yield
+Brent crude, WTI, Brent 3m-1m spread, oil volatility index
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Asian shares rise as oil prices slip
+Headline: UK fuel-duty cut push could temporarily boost petrol demand
+
 What happened:
-Asian equities advanced on tech gains while oil prices eased, reducing input-cost pressure for energy-importing economies and improving margins for non-energy corporates.
+Senior opposition and Lib Dem figures proposed cuts to fuel duty and calls for immediate 10p cut to duty, stirring debate on short-term demand stimulus for road fuels.
+
 Why it matters:
-Lower oil alleviates inflation concerns in importers, can support earnings upgrades in Asia and shift equity flows from energy into growth sectors.
+Cutting fuel duty would lower pump prices, potentially increasing consumption and reducing immediate inflation, while affecting fiscal receipts and refining margins.
+
 Second-order effects:
-- Positive revisions to Asian corporate earnings.
-- Commodity-exporters may underperform.
-- FX of oil importers could strengthen.
+- Short-term drop in petrol prices.
+- Lower headline CPI prints temporarily.
+- Refiners’ crack spreads may shift.
+
 Markets to watch:
-MSCI Asia, Brent, Hang Seng, Nikkei 225
+Brent crude, UK gasoline futures, UK CPI, refining margins
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Can Europe reboot its battery industry supply chains?
+Headline: Airline disruptions escalate jet-fuel demand uncertainty
+
 What happened:
-Analysis highlights Europe’s struggle to scale battery manufacturing without upstream raw-material security, identifying gaps in lithium, nickel and cobalt supply and recycling capacity.
+Repeated air traffic control failures, software defects and infrastructure incidents caused widespread flight disruptions, creating short-term demand uncertainty for jet fuel and hedging needs for carriers.
+
 Why it matters:
-Securing raw materials is critical for EV supply chains; shortages would raise battery costs, benefit miners, and shape industrial policy and capital allocation across the auto sector.
+Operational airline shocks can reduce fuel consumption temporarily, alter hedging strategies, and increase logistical costs, affecting airline margins and refinery product slates.
+
 Second-order effects:
-- Miners of lithium and nickel gain strategic premium.
-- Auto OEMs may accelerate vertical integration.
-- Capital expenditure in refining capacity increases.
+- Airlines delay hedges, increasing price risk.
+- Jet fuel inventories adjust regionally.
+- Short-term crack spreads shift.
+
 Markets to watch:
-LIT ETF, Nickel futures, Lithium carbonate price, Stoxx Europe 600
+Jet fuel futures, airline equities, Brent crude, refining margins
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Call to cut UK fuel duty may boost petrol demand
+Headline: Spain’s climate push shifts demand toward renewables, metals
+
 What happened:
-A senior politician proposed an immediate 10p cut in fuel duty to ease consumer costs, reigniting debate over fiscal measures to absorb energy-price shocks.
+Spain unveiled multiple climate-change initiatives tackling energy transition, coastal resilience and agriculture, accelerating demand for renewables, grid upgrades and critical transition metals.
+
 Why it matters:
-If enacted, duty cuts would temporarily boost petrol consumption, reduce headline inflation pressure, and have fiscal cost implications; markets will price changed demand for refined products.
+Policy-driven capex lifts demand for copper, lithium, and power equipment, creating investment opportunities and supply-chain constraints for green-transition commodity inputs.
+
 Second-order effects:
-- UK gasoline demand could tick higher.
-- Short-term relief for households but fiscal strain rises.
-- Refining margins may edge up.
+- Higher prices for copper and battery metals.
+- Increased European renewables equipment imports.
+- Opportunity for infrastructure contractors.
+
 Markets to watch:
-Brent, UK gasoline futures, Shell, RPI inflation expectations
+Copper, lithium, Spanish 10y yields, Iberian power prices
+
 END STORY
 
 STORY
 Category: COMMODITIES
-Headline: Egypt builds sustainable finance hub for carbon markets
+Headline: Gulf seeks Syrian-North Africa corridor; trade flows may shift energy routes
+
 What happened:
-Egypt is developing an expertise hub focused on sustainable finance and carbon markets, aiming to deepen regional carbon trading capacity and technical expertise for credits.
+Gulf states exploring a trade corridor from Syria to North Africa could re-route regional logistics and commodity flows, influencing regional supply chains for oil, gas and goods.
+
 Why it matters:
-Regional expansion of carbon market infrastructure increases demand for credits, supports carbon-price discovery, and attracts related ESG commodity investments and green financing flows.
+New corridors can alter shipping routes and transit costs, affecting regional trade balances, commodity logistics and energy export strategies across the Mediterranean.
+
 Second-order effects:
-- Voluntary carbon market liquidity may rise.
-- Increased demand for verified emission reductions.
-- Regional green bond issuance could accelerate.
+- Shorter shipping legs for some routes.
+- Changes to regional freight rates.
+- Potential shift in energy transit chokepoints.
+
 Markets to watch:
-ICE EUA futures, Voluntary carbon indices, MENA carbon exchanges
+Brent crude, Mediterranean freight rates, regional LNG shipments, Suez/Mediterranean shipping lanes
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: BoE holds rates but warns of further action on energy
+Headline: Unexpected UK borrowing surge heightens pre-Budget fiscal risks
+
 What happened:
-The Bank of England left policy rates unchanged but explicitly signalled readiness to raise them further if sustained energy-price pressures translate into broader inflation persistence.
+UK posted an unexpected rise in borrowing ahead of the Budget, adding pressure on the Chancellor to address fiscal credibility and potentially tighten future plans or raise issuance.
+
 Why it matters:
-Conditional tightening shifts market expectations for UK policy, raising short-term gilt yields and altering mortgage and corporate borrowing cost forecasts across the economy.
+Worsening public finances increase borrowing costs and constrain fiscal stimulus capacity, raising recession risk and influencing central bank policy calibration.
+
 Second-order effects:
-- Mortgage rate repricing could slow housing activity.
-- Sterling appreciation risk increases.
-- Bank earnings may benefit from higher rates.
+- Tighter fiscal space for tax cuts.
+- Upward pressure on gilt yields.
+- Political risk elevates market volatility.
+
 Markets to watch:
-Bank Rate, UK 2y yield, GBP/USD
+UK 10y gilt, GBP swaps, UK fiscal statement, sovereign CDS
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: Japan hikes rates to highest level in 31 years
+Headline: US-China AI safety talks signal reduced tech escalation risk
+
 What happened:
-Japanese authorities raised interest rates to a 31-year peak to combat rising inflation, signalling an end to extended ultra-loose monetary settings and reasserting policy normalisation.
+Senior US and Chinese officials opened AI safety discussions ahead of high-level summitry, showing willingness to discuss cross-border governance and risk management for advanced AI systems.
+
 Why it matters:
-A tighter Japan impacts global yield differentials, carry trade flows and export competitiveness, forcing investors to reassess cross-border duration and FX positions.
+Cooperation reduces probability of escalatory tech restrictions, potentially easing trade tensions, stabilising tech supply chains and supporting global investment in AI industries.
+
 Second-order effects:
-- Global portfolio rebalancing into JGBs possible.
-- Japanese exporters may face currency headwinds.
-- Cross-border volatility could rise.
+- Lower risk premium for tech supply chains.
+- Reduced probability of abrupt export controls.
+- Improved cross-border R&D collaboration prospects.
+
 Markets to watch:
-BoJ policy rate, 10y JGB yield, USD/JPY
+NASDAQ-100, S&P 500 info tech, USD/CNY, semiconductor supply chain stocks
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: Regulators ramp up scrutiny after Jane Street trading loss
+Headline: Digital euro pilots debut in wholesale financial markets
+
 What happened:
-US Fed and UK BoE stepped up examination of banks’ exposures to high-frequency trading firms following a significant loss at a trading firm, prompting reviews of counterparty risk management.
+The ECB introduced a wholesale digital euro pilot, integrating central-bank money into tokenised financial markets and testing reserve-fund investments in tokenised securities.
+
 Why it matters:
-Heightened regulatory focus could force banks to tighten credit lines to trading firms, reduce market-making capacity, and increase compliance costs, altering liquidity in cash and derivatives markets.
+Central-bank digital-money in wholesale markets could change liquidity transmission, settlement efficiency and monetary policy implementation across the euro area.
+
 Second-order effects:
-- Interdealer liquidity in some instruments may decline.
-- Banks could raise capital against trading exposures.
-- Volatility in short-term funding could increase.
+- Faster settlement reduces intraday liquidity needs.
+- Altered short-term rate dynamics.
+- Competitive pressure on non-euro payment systems.
+
 Markets to watch:
-Major bank stocks (BAC, HSBC), Treasury repo rates, VIX
+€STR, Euro short-term yields, tokenised asset issuance, ECB announcements
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: Chiltern Railways renationalised after 30 years
+Headline: Calls to rebuild growth: Lib Dems target 'computer says no' economy
+
 What happened:
-Chiltern Railways has been brought back into public ownership after three decades, returning operations and liabilities to government control amid transport-sector reform efforts.
+UK Liberal Democrats proposed policies to remove bureaucratic automation barriers to growth, promising to reform digital public services and boost productivity through administrative changes.
+
 Why it matters:
-Renationalisation signals government willingness to intervene in critical services, with potential fiscal costs and precedent for other franchised operations, affecting public-sector borrowing and investor risk perceptions.
+If enacted, deregulatory and digital reforms could raise measured productivity, affect small-business activity and alter labour market frictions, with fiscal and growth implications.
+
 Second-order effects:
-- Private UK transport valuations may fall.
-- Potential increase in public-sector borrowing.
-- Insurance and liabilities transfer monitored.
+- Potential boost to SME hiring.
+- Shifts in government IT procurement.
+- Administrative cost savings over time.
+
 Markets to watch:
-UK transport stocks, FTSE 250, UK sovereign spreads
+UK GDP releases, SME lending volumes, UK equities small-cap indices
+
 END STORY
 
 STORY
 Category: MACRO
-Headline: MPs urge rejection of Thames Water rescue deal
+Headline: Building resilience to global shocks becomes EM policy priority
+
 What happened:
-Parliamentary critics called for the rejection of the proposed Thames Water rescue deal, raising doubts about the structure and taxpayer exposure implicit in the plan.
+CEPR and other research emphasised strengthening emerging-market resilience to financial shocks, urging precautionary reserves, macroprudential buffers and improved debt transparency.
+
 Why it matters:
-Political opposition increases uncertainty over utility restructurings, could delay resolution, raise social and fiscal costs, and affect investor appetite for regulated utilities and infrastructure debt.
+Policy adoption could reduce EM vulnerability to external rate shocks and capital flow volatility, affecting sovereign financing conditions and portfolio allocations.
+
 Second-order effects:
-- Utility bond spreads may widen.
-- Delay risks for infrastructure credit resolutions.
-- Higher scrutiny of future rescue plans.
+- Lower sovereign default risk over time.
+- Higher demand for precautionary reserves.
+- Reduced cyclicality in capital flows.
+
 Markets to watch:
-UK utilities, Thames Water creditor yields, UK sovereign risk premia
+Emerging-market sovereign spreads, FX reserves, EMBI, CDS indices
+
+END STORY
+
+STORY
+Category: MACRO
+Headline: Air-traffic control failures raise transport productivity risks
+
+What happened:
+Repeated ATC failures and software defects produced widespread flight cancellations and delays, highlighting infrastructure fragility and raising concerns about transport sector resilience.
+
+Why it matters:
+Persistent disruptions cut business travel efficiency, tourism receipts and supply-chain reliability, potentially denting near-term growth and services-sector output.
+
+Second-order effects:
+- Short-term tourism GDP hits.
+- Higher costs for logistics and just-in-time supply.
+- Insurance premiums for carriers could rise.
+
+Markets to watch:
+IATA traffic data, airline earnings, UK services PMI, travel-related stocks
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Brewdog takeover leaves creditors with insufficient funds
+Headline: Paramount-Warner merger raises debt financing and covenant risks
+
 What happened:
-A recent Brewdog takeover reportedly left insufficient funds to meet obligations to certain creditors, creating a near-term liquidity shortfall and potential restructuring need for the brewer.
+Settlement cleared legal hurdles for the $110bn Paramount-Warner deal, increasing likelihood of a large debt-funded transaction requiring significant syndicated financing and potential debt rating reviews.
+
 Why it matters:
-Immediate creditor shortfall elevates default and recovery risk in leveraged deals, could tighten market sentiment for sponsor-backed consumer sector credits and increase scrutiny of covenant protections.
+Large merger financing can widen leveraged-loan and high-yield supply, pressuring credit spreads in media/leveraged sectors and prompting rating agencies to reassess corporate leverage.
+
 Second-order effects:
-- European HY spreads may widen for similar credits.
-- Leveraged loan secondary prices could weaken.
-- Sponsor financing costs may rise.
+- Wider leveraged-loan spreads on media credits.
+- Potential downgrade risk for acquirers.
+- Increased M&A financing competition.
+
 Markets to watch:
-iTraxx Crossover, European HY index, UK leveraged loan index
+US leveraged loan indices, US high-yield spreads, Paramount/Warner credit spreads, CLO issuance
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: MPs say British Steel plan lacks creditor credibility
+Headline: Regulators scrutinise banks’ exposure to trading firms after losses
+
 What happened:
-Parliamentary critiques of British Steel’s rescue plan highlighted insufficient detail and feasibility, casting doubt on creditor recovery prospects and the company’s solvency path.
+Fed and BoE increased oversight of bank exposures to trading firms following a major trading-firm loss, raising expectations for higher capital and liquidity requirements related to market risk.
+
 Why it matters:
-Creditor uncertainty raises default probability, may trigger tighter haircuts in restructuring, and increases sector funding costs for steel-related corporate credit across the market.
+Tighter oversight will increase banks’ cost of capital, potentially raising lending spreads, reducing market-making capacity and changing banks’ risk appetite in credit markets.
+
 Second-order effects:
-- Steel-sector CDS could widen.
-- Suppliers may demand prepayment or stricter terms.
-- Bank exposures may be reassessed.
+- Wider bank credit spreads.
+- Reduced capital for corporate lending.
+- Increased demand for sovereign safe assets.
+
 Markets to watch:
-UK high-yield spreads, iBoxx GBP Non-Gilt, steel sector CDS
+Senior bank bond spreads, bank CDS, regulatory announcements, US LIBOR/SOFR basis
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Study links fast-growing MMFs with systemic risk and equity exuberance
+Headline: Rapid MMF growth flagged as systemic strain on short-term credit
+
 What happened:
-Research connected rapid growth in money market funds with exuberant equity markets, suggesting short-term funding shifts can amplify risk and create systemic vulnerabilities in stressed conditions.
+Research linked fast-growing money market funds to exuberant equity markets and systemic vulnerabilities, highlighting redemption-driven transmission into commercial paper and repo markets.
+
 Why it matters:
-If regulators act on these findings, MMF rules or liquidity requirements could tighten, raising short-term funding costs and affecting bank and corporate access to cash.
+Stress in MMFs can rapidly freeze short-term credit channels, elevating rollover risk for corporates and increasing central-bank backstop demand during volatility spikes.
+
 Second-order effects:
-- Prime MMFs could see repricing pressure.
-- Short-term funding markets may tighten.
-- Regulatory capital for banks may increase.
+- Higher CP spreads and roll-over costs.
+- Tighter corporate short-term liquidity.
+- Policy push for MMF reforms.
+
 Markets to watch:
-Prime MMF yields, LIBOR–€STR spreads, short-term repo rates
+Commercial paper spreads, MMF flows, repo rates, short-term corporate issuance
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Sovereign bond volatility raises borrowing costs and risk premia
+Headline: Turkish market scandal raises sovereign and corporate credit concerns
+
 What happened:
-Spikes in sovereign bond volatility driven by fuel-price and inflation uncertainty widened risk premia, increasing funding costs for both sovereigns and leveraged corporate borrowers.
+Authorities’ intervention to contain a Turkish stock-market scandal increased investor unease, spotlighting governance, potential capital controls, and the creditworthiness of Turkish corporates.
+
 Why it matters:
-Higher sovereign yield volatility reduces investor appetite for lower-rated credit, widens spreads, and pressures refinancing conditions for corporates and sub-sovereign issuers globally.
+Heightened sovereign and corporate risk may widen Turkish sovereign CDS and corporate spreads, increasing refinancing costs and reducing foreign investor participation.
+
 Second-order effects:
-- Borrowing costs for governments may rise.
-- Corporate refinancing windows could narrow.
-- Demand for credit hedges increases.
+- Elevation in EM risk premia.
+- Wider Turkish corporate bond spreads.
+- Lower external financing availability.
+
 Markets to watch:
-US 10y, UK 10y, iTraxx Europe, iTraxx Crossover
+Turkey 5y CDS, Turkish corporate bond spreads, BIST sovereign-linked bonds
+
 END STORY
 
 STORY
 Category: CREDIT
-Headline: Regulators probe bank exposure to trading firms after loss
+Headline: Buffett departure may test Berkshire’s credit trajectory
+
 What happened:
-Following a trading firm’s large loss, regulators increased scrutiny on banks’ counterparty exposures to proprietary trading firms, examining credit limits, collateral practices and concentration risks.
+Warren Buffett’s resignation after decades raises questions about future capital allocation at Berkshire Hathaway and potential implications for its credit profile and bondholder perceptions.
+
 Why it matters:
-Tighter oversight may force banks to curtail lines, raise haircuts or demand additional collateral, reducing liquidity and raising funding costs across derivatives and securities financing markets.
+Leadership uncertainty at a top-rated conglomerate may prompt investors to reassess long-term credit strength, potentially widening spreads on Berkshire-issued debt if strategy shifts.
+
 Second-order effects:
-- Interdealer credit may contract.
-- Costs for market-making could increase.
-- Derivative margining practices may shift.
+- Temporary widening of BRK bond spreads.
+- Reevaluation of conglomerate credit covenants.
+- Increased investor focus on succession plan.
+
 Markets to watch:
-Senior bank bond spreads, interbank rates, iTraxx Senior Financials
+Berkshire bond yields, corporate bond indices, BRK stock
+
 END STORY
